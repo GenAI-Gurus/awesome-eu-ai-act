@@ -28,8 +28,6 @@ The Act entered into force on **1 August 2024**, with obligations phasing in thr
 - [Regulatory Sandboxes](#regulatory-sandboxes)
 - [Related EU Regulations](#related-eu-regulations)
 - [Consultancies & Service Providers](#consultancies--service-providers)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -99,8 +97,8 @@ The Act entered into force on **1 August 2024**, with obligations phasing in thr
 
 ### EU AI Act Compliance Platforms
 
-- [VerifyWise](https://github.com/verifywise-ai/verifywise) (~247 stars) - Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks.
-- [EuConform](https://github.com/Hiepler/EuConform) (~107 stars) - Risk classification, bias detection via CrowS-Pairs, and Annex IV-compliant PDF report generation, 100% offline.
+- [VerifyWise](https://github.com/verifywise-ai/verifywise) - Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (~247 stars).
+- [EuConform](https://github.com/Hiepler/EuConform) - Risk classification, bias detection via CrowS-Pairs, and Annex IV-compliant PDF report generation, 100% offline (~107 stars).
 - [EU AI Act MCP Server](https://github.com/SonnyLabs/EU_AI_ACT_MCP) - MCP server with compliance tools including risk classification, prohibited practice checks, and transparency disclosures.
 - [MCP EU AI Act Scanner](https://github.com/ark-forge/mcp-eu-ai-act) - Scans codebases for compliance gaps and generates auditor-ready Annex IV evidence packages.
 - [EU AI Act Compliance Checker](https://github.com/ARQNXS/eu-ai-act-compliance-checker) - Interactive web-based questionnaire for assessing compliance and generating reports.
@@ -126,7 +124,7 @@ The Act entered into force on **1 August 2024**, with obligations phasing in thr
 
 ### Curated Lists
 
-- [Awesome AI Regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) (~800 stars) - Broader AI regulation ecosystem mapping including guidelines, principles, and standards.
+- [Awesome AI Regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) - Broader AI regulation ecosystem mapping including guidelines, principles, and standards (~800 stars).
 - [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI) - Curated list of responsible, trustworthy, and human-centered AI resources.
 
 ---
@@ -309,24 +307,24 @@ The Act entered into force on **1 August 2024**, with obligations phasing in thr
 
 ### Explainability Libraries
 
-- [SHAP](https://github.com/shap/shap) (~23,000 stars) - Game-theoretic ML explainability using Shapley values; the most widely used explainability library.
+- [SHAP](https://github.com/shap/shap) - Game-theoretic ML explainability using Shapley values; the most widely used explainability library (~23,000 stars).
 - [LIME](https://github.com/marcotcr/lime) - Model-agnostic library explaining individual predictions via local surrogate models.
-- [InterpretML (Microsoft)](https://github.com/interpretml/interpret) (~6,000 stars) - Trains interpretable glassbox models (EBM) and explains blackbox systems.
+- [InterpretML (Microsoft)](https://github.com/interpretml/interpret) - Trains interpretable glassbox models (EBM) and explains blackbox systems (~6,000 stars).
 - [Captum (Meta/PyTorch)](https://github.com/meta-pytorch/captum) - Model interpretability with Integrated Gradients, SHAP, LIME, and saliency maps for PyTorch.
 - [Alibi (Seldon)](https://github.com/SeldonIO/alibi) - Python library for model inspection: SHAP, ALE, counterfactual explanations, and anchors.
-- [AI Explainability 360 (IBM)](https://github.com/Trusted-AI/AIX360) (~1,500 stars) - Comprehensive toolkit for interpretability across tabular, text, image, and time series data.
+- [AI Explainability 360 (IBM)](https://github.com/Trusted-AI/AIX360) - Comprehensive toolkit for interpretability across tabular, text, image, and time series data (~1,500 stars).
 
 ### Fairness Toolkits
 
-- [AI Fairness 360 (IBM/Linux Foundation)](https://github.com/Trusted-AI/AIF360) (~2,500 stars) - 70+ fairness metrics and 10+ bias mitigation algorithms.
-- [Fairlearn (Microsoft)](https://github.com/fairlearn/fairlearn) (~1,900 stars) - Assessing and improving fairness with group fairness metrics and mitigation algorithms.
+- [AI Fairness 360 (IBM/Linux Foundation)](https://github.com/Trusted-AI/AIF360) - 70+ fairness metrics and 10+ bias mitigation algorithms (~2,500 stars).
+- [Fairlearn (Microsoft)](https://github.com/fairlearn/fairlearn) - Assessing and improving fairness with group fairness metrics and mitigation algorithms (~1,900 stars).
 - [Aequitas (University of Chicago)](https://github.com/dssg/aequitas) - Bias and fairness audit toolkit across multiple population sub-groups.
 - [What-If Tool (Google)](https://pair-code.github.io/what-if-tool/) - Visual, interactive model analysis without code.
-- [Responsible AI Toolbox (Microsoft)](https://github.com/microsoft/responsible-ai-toolbox) (~1,300 stars) - Unified dashboard combining Fairlearn, InterpretML, Error Analysis, and Counterfactual Analysis.
+- [Responsible AI Toolbox (Microsoft)](https://github.com/microsoft/responsible-ai-toolbox) - Unified dashboard combining Fairlearn, InterpretML, Error Analysis, and Counterfactual Analysis (~1,300 stars).
 
 ### Model Documentation
 
-- [Model Card Toolkit (Google/TensorFlow)](https://github.com/tensorflow/model-card-toolkit) (~400 stars) - Automates generation of Model Cards for transparency reporting.
+- [Model Card Toolkit (Google/TensorFlow)](https://github.com/tensorflow/model-card-toolkit) - Automates generation of Model Cards for transparency reporting (~400 stars).
 - [Hugging Face Model Cards](https://huggingface.co/docs/hub/en/model-cards) - Standardized model card format for the Hugging Face Hub.
 - [AI FactSheets 360 (IBM)](https://aifs360.res.ibm.com/) - Comprehensive factsheets documenting AI model development, testing, and deployment.
 - [Deon (DrivenData)](https://deon.drivendata.org/) - Ethics checklist tool adding ethical checkpoints to ML workflows.
@@ -407,13 +405,12 @@ The AI Act does not exist in isolation. These regulations intersect with it and 
 
 ## Contributing
 
-Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+Contributions are welcome. See [CONTRIBUTING.md](https://github.com/GenAI-Gurus/awesome-eu-ai-act/blob/main/CONTRIBUTING.md) for guidelines.
 
 Please [open an issue](https://github.com/GenAI-Gurus/awesome-eu-ai-act/issues) if you find a broken link or know a resource that belongs here.
 
 ---
 
-## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
