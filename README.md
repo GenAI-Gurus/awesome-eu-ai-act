@@ -9,7 +9,7 @@ The Act entered into force on **1 August 2024**, with obligations phasing in thr
 - **August 2025** — GPAI (General-Purpose AI) obligations
 - **August 2026** — High-risk AI system rules ← most organizations are preparing for this
 
-> **Want to contribute?** See [CONTRIBUTING.md](https://github.com/GenAI-Gurus/awesome-eu-ai-act/blob/main/CONTRIBUTING.md). PRs are reviewed within 48 hours.
+> **Want to contribute?** Open a pull request — see `CONTRIBUTING.md` for guidelines. PRs are reviewed within 48 hours.
 
 ---
 
@@ -405,7 +405,7 @@ The AI Act does not exist in isolation. These regulations intersect with it and 
 
 ## Contributing
 
-Contributions are welcome. See [CONTRIBUTING.md](https://github.com/GenAI-Gurus/awesome-eu-ai-act/blob/main/CONTRIBUTING.md) for guidelines.
+Contributions are welcome. Read `CONTRIBUTING.md` for guidelines.
 
 Please [open an issue](https://github.com/GenAI-Gurus/awesome-eu-ai-act/issues) if you find a broken link or know a resource that belongs here.
 
