@@ -2,12 +2,13 @@
 
 > Maintained by **[Carlos Hernández](https://www.linkedin.com/in/carloshvp)** · [GitHub @carloshvp](https://github.com/carloshvp) · Founder of [GenAI Gurus](https://genai-gurus.com) — Europe's GenAI community (2,000+ members).
 
-A curated list of tools, frameworks, guides, and resources for understanding and complying with the **EU AI Act** (Regulation (EU) 2024/1689).
+EU regulation governing the development and deployment of artificial intelligence systems, establishing a risk-based compliance framework with obligations phasing in through 2027.
 
-The Act entered into force on **1 August 2024**, with obligations phasing in through 2027:
-- **February 2025** — Prohibited AI practices + AI literacy requirements
-- **August 2025** — GPAI (General-Purpose AI) obligations
-- **August 2026** — High-risk AI system rules ← most organizations are preparing for this
+| Deadline | Obligation |
+|---|---|
+| February 2025 | Prohibited AI practices + AI literacy (Article 4) |
+| August 2025 | GPAI (General-Purpose AI) obligations |
+| **August 2026** | **High-risk AI system rules** ← most organizations are preparing for this |
 
 > **Want to contribute?** Open a pull request — see `CONTRIBUTING.md` for guidelines. PRs are reviewed within 48 hours.
 
