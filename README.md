@@ -12,6 +12,8 @@ Key compliance deadlines:
 
 > **Want to contribute?** Open a pull request — see `CONTRIBUTING.md` for guidelines. PRs are reviewed within 48 hours.
 
+**New to the EU AI Act?** Start with the official full text (see *Official EU Sources*), the EC Compliance Checker (see *Compliance Tools & Platforms*), and the ready-to-use templates (see *Templates & Checklists*).
+
 ---
 
 ## Contents
