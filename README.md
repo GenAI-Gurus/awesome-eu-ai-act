@@ -101,7 +101,7 @@ Key compliance deadlines:
 - [VerifyWise](https://github.com/verifywise-ai/verifywise) - Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (~247 stars).
 - [EuConform](https://github.com/Hiepler/EuConform) - Risk classification, bias detection via CrowS-Pairs, and Annex IV-compliant PDF report generation, 100% offline (~107 stars).
 - [EU AI Act MCP Server](https://github.com/SonnyLabs/EU_AI_ACT_MCP) - MCP server with compliance tools including risk classification, prohibited practice checks, and transparency disclosures.
-- [MCP EU AI Act Scanner](https://github.com/ark-forge/mcp-eu-ai-act) - Scans codebases for compliance gaps and generates auditor-ready Annex IV evidence packages.
+- [MCP EU AI Act Scanner](https://github.com/ark-forge/mcp-eu-ai-act) - Scans codebases for EU AI Act + GDPR compliance gaps and generates auditor-ready Annex IV evidence packages. Available on [PyPI](https://pypi.org/project/mcp-eu-ai-act/).
 - [EU AI Act Compliance Checker](https://github.com/ARQNXS/eu-ai-act-compliance-checker) - Interactive web-based questionnaire for assessing compliance and generating reports.
 - [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
 
