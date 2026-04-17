@@ -1,16 +1,6 @@
 # Awesome EU AI Act [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-EU regulation governing the development and deployment of artificial intelligence systems, establishing a risk-based compliance framework with obligations phasing in through 2027.
-
-Key compliance deadlines:
-
-- **February 2025** — Prohibited practices + AI literacy (Article 4)
-- **August 2025** — GPAI (General-Purpose AI) obligations
-- **August 2026** — High-risk AI system rules (most organizations are preparing for this)
-
-> **Want to contribute?** Open a pull request — see `CONTRIBUTING.md` for guidelines. PRs are reviewed within 48 hours.
-
-**New to the EU AI Act?** Start with the official full text (see *Official EU Sources*), the EC Compliance Checker (see *Compliance Tools & Platforms*), and the ready-to-use templates (see *Templates & Checklists*).
+> EU regulation governing the development and deployment of artificial intelligence systems, establishing a risk-based compliance framework with obligations phasing in through 2027.
 
 ---
 
@@ -19,7 +9,6 @@ Key compliance deadlines:
 - [Official EU Sources](#official-eu-sources)
 - [Compliance Tools & Platforms](#compliance-tools--platforms)
 - [Open-Source Projects](#open-source-projects)
-  - [AI Agent Governance](#ai-agent-governance)
 - [Legal Analysis & Guides](#legal-analysis--guides)
 - [Standards & Frameworks](#standards--frameworks)
 - [Templates & Checklists](#templates--checklists)
@@ -415,6 +404,7 @@ Contributions are welcome. Read `CONTRIBUTING.md` for guidelines.
 
 Please [open an issue](https://github.com/GenAI-Gurus/awesome-eu-ai-act/issues) if you find a broken link or know a resource that belongs here.
 
+
 ---
 
 
@@ -424,4 +414,4 @@ To the extent possible under law, Carlos Hernandez has waived all copyright and 
 
 ## Footnotes
 
-Maintained by [Carlos Hernandez](https://www.linkedin.com/in/carloshvp) ([GitHub @carloshvp](https://github.com/carloshvp)), Founder of [GenAI Gurus](https://genai-gurus.com) — Europe's GenAI community (2,000+ members).
+Maintained by [Carlos Hernandez](https://www.linkedin.com/in/carloshvp) ([GitHub @carloshvp](https://github.com/carloshvp)).
