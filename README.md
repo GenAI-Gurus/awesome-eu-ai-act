@@ -81,7 +81,7 @@
 - [Kertos](https://www.kertos.io/) - EU-focused platform supporting EU AI Act, GDPR, and ISO 27001 with AI-driven automation.
 - [Hyperproof](https://hyperproof.io/) - Compliance operations with automation for evidence collection and control mapping.
 - [ComplyACT AI](https://complyactai.com/blog/software-for-compliance-management) - Auto-classifies AI systems, generates audit-ready Annex IV documentation, and provides continuous monitoring.
-- - [AI Disclosure Kit](https://disclosekit.com) — Generates Article 50 disclosure templates for AI systems (chatbots, synthetic content, emotion/biometric, deepfakes) with exact clause citations.
+- [AI Disclosure Kit](https://disclosekit.com) — Generates Article 50 disclosure templates for AI transparency notices.
 ---
 
 ## Open-Source Projects
