@@ -101,13 +101,13 @@
 - [AI Act Engineering](https://github.com/visenger/aiact-engineering) - Curated reference list for engineering practices ensuring AI systems comply with AI Act regulations.
 - [AI Act Technical Documentation Assessment Tools](https://github.com/Francesco-Sovrano/AI-Act-Compliance-Technical-Documentation-Assessment-Tools) - Research replication package for using AI to draft Annex IV-compliant technical documentation.
 - [AIR Blackbox](https://github.com/airblackbox) - Open-source trust infrastructure with 39 EU AI Act compliance checks, decision traceability, and audit chains across 11 PyPI packages.
-- [Regula](https://github.com/kuzivaai/getregula) - Static code scanner for EU AI Act risk indicators across 8 language families (404 regex patterns, 12 compliance framework mappings). Stdlib-only Python, zero dependencies, fully offline. GitHub Action with SARIF and PR comments.
 
 ### Risk Assessment & Classification
 
 - [AI Assessment Tool (AI4Belgium)](https://github.com/AI4Belgium/ai-assessment-tool) - Open-source interactive tool based on ALTAI recommendations for assessing AI trustworthiness.
 - [AI Act Implementation Tool (Algorithm Audit)](https://github.com/NGO-Algorithm-Audit/AI-Act-Implementation-Tool) - Risk classification of algorithmic systems using simplified questionnaires.
 - [Algoritmekader (Dutch Government)](https://github.com/MinBZK/Algoritmekader) - Netherlands' open-source Algorithm Framework for lawful and ethical government AI use.
+- [Regula](https://github.com/kuzivaai/getregula) — CLI for EU AI Act risk scanning, conformity evidence packs, and CrowS-Pairs bias evaluation.
 
 ### Educational & Informational
 
