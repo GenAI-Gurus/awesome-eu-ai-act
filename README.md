@@ -107,6 +107,7 @@
 - [AI Assessment Tool (AI4Belgium)](https://github.com/AI4Belgium/ai-assessment-tool) - Open-source interactive tool based on ALTAI recommendations for assessing AI trustworthiness.
 - [AI Act Implementation Tool (Algorithm Audit)](https://github.com/NGO-Algorithm-Audit/AI-Act-Implementation-Tool) - Risk classification of algorithmic systems using simplified questionnaires.
 - [Algoritmekader (Dutch Government)](https://github.com/MinBZK/Algoritmekader) - Netherlands' open-source Algorithm Framework for lawful and ethical government AI use.
+- [Regula](https://github.com/kuzivaai/getregula) - CLI for EU AI Act risk scanning, conformity evidence packs, and CrowS-Pairs bias evaluation.
 
 ### Educational & Informational
 
