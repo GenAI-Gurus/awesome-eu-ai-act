@@ -7,18 +7,63 @@
 ## Contents
 
 - [Official EU Sources](#official-eu-sources)
+  - [Regulation Text](#regulation-text)
+  - [European Commission](#european-commission)
+  - [EU AI Office](#eu-ai-office)
+  - [European Parliament & Governance](#european-parliament--governance)
+  - [Unofficial Authoritative References](#unofficial-authoritative-references)
 - [Compliance Tools & Platforms](#compliance-tools--platforms)
+  - [Enterprise AI Governance Platforms](#enterprise-ai-governance-platforms)
+  - [EU AI Act-Specific Tools](#eu-ai-act-specific-tools)
 - [Open-Source Projects](#open-source-projects)
+  - [EU AI Act Compliance Platforms](#eu-ai-act-compliance-platforms)
+  - [Reference Implementations](#reference-implementations)
+  - [Risk Assessment & Classification](#risk-assessment--classification)
+  - [Educational & Informational](#educational--informational)
+  - [AI Agent Governance](#ai-agent-governance)
+  - [Curated Lists](#curated-lists)
 - [Legal Analysis & Guides](#legal-analysis--guides)
+  - [Major Law Firm Guides](#major-law-firm-guides)
+  - [Think Tanks & Institutions](#think-tanks--institutions)
+  - [IAPP Resources](#iapp-resources)
+  - [Academic Research](#academic-research)
 - [Standards & Frameworks](#standards--frameworks)
+  - [ISO/IEC Standards](#isoiec-standards)
+  - [NIST AI Risk Management Framework](#nist-ai-risk-management-framework)
+  - [CEN/CENELEC Standardization (JTC 21)](#cencenelec-standardization-jtc-21)
+  - [ENISA Cybersecurity](#enisa-cybersecurity)
+  - [OECD & International](#oecd--international)
+  - [IEEE Standards](#ieee-standards)
+  - [UK ICO AI Guidance](#uk-ico-ai-guidance)
 - [Templates & Checklists](#templates--checklists)
+  - [Compliance Checklists](#compliance-checklists)
+  - [FRIA Templates (Fundamental Rights Impact Assessment)](#fria-templates-fundamental-rights-impact-assessment)
+  - [Conformity Assessment](#conformity-assessment)
+  - [Technical Documentation (Annex IV)](#technical-documentation-annex-iv)
+  - [Timeline & Governance Infographics](#timeline--governance-infographics)
 - [Training & Certifications](#training--certifications)
+  - [Online Courses](#online-courses)
+  - [Professional Certifications](#professional-certifications)
+  - [Enterprise Training](#enterprise-training)
 - [News & Newsletters](#news--newsletters)
+  - [Newsletters](#newsletters)
+  - [Websites & Blogs](#websites--blogs)
+  - [Podcasts](#podcasts)
 - [Community & Events](#community--events)
+  - [Major Conferences](#major-conferences)
+  - [Research Organizations](#research-organizations)
 - [AI Governance & Ethics Tools](#ai-governance--ethics-tools)
+  - [Explainability Libraries](#explainability-libraries)
+  - [Fairness Toolkits](#fairness-toolkits)
+  - [Model Documentation](#model-documentation)
+  - [ML Monitoring & Observability](#ml-monitoring--observability)
+  - [Robustness & Adversarial Security](#robustness--adversarial-security)
+  - [Privacy-Preserving ML](#privacy-preserving-ml)
 - [Regulatory Sandboxes](#regulatory-sandboxes)
+  - [EU AI Act Provisions](#eu-ai-act-provisions)
+  - [Member State Programs](#member-state-programs)
+  - [Analysis](#analysis)
 - [Related EU Regulations](#related-eu-regulations)
-- [Consultancies & Service Providers](#consultancies--service-providers)
 
 ---
 
@@ -205,6 +250,8 @@
 
 ## Templates & Checklists
 
+Practical templates, checklists, and assessment materials for AI Act readiness, documentation, FRIAs, and conformity workflows.
+
 ### Compliance Checklists
 
 - [EU AI Act Compliance Matrix (IAPP)](https://iapp.org/resources/article/eu-ai-act-compliance-matrix) - Downloadable charts mapping requirements by operator type across risk categories.
@@ -379,26 +426,6 @@ The AI Act does not exist in isolation. These regulations intersect with it and 
 - [Cyber Resilience Act (Regulation (EU) 2024/2847)](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act) - AI systems that are products with digital elements must meet both CRA and AI Act requirements.
 - [NIS2 Directive (Directive (EU) 2022/2555)](https://digital-strategy.ec.europa.eu/en/policies/nis2-directive) - Entities using AI in critical sectors face both NIS2 incident reporting and AI Act obligations.
 - [European Health Data Space (Regulation (EU) 2025/327)](https://eur-lex.europa.eu/eli/reg/2025/327/oj/eng) - Explicitly references the AI Act for AI systems processing health data.
-
----
-
-## Consultancies & Service Providers
-
-> Resources for organizations that need external support for EU AI Act compliance.
-
-### Big Four Consulting
-
-- [EU AI Act Compliance (Deloitte)](https://www.deloitte.com/nl/en/services/risk-advisory/analysis/eu-ai-act.html) - Risk assessment, governance frameworks, and conformity assessment.
-- [EU AI Act Compliance & Transformation (PwC CEE)](https://cee.pwc.com/eu-ai-act-compliance-and-transformation.html) - Using the AI Act as a business transformation tool with AI validation services.
-- [AI Governance & Compliance (EY Global)](https://www.ey.com/en_gl/alliances/servicenow/ai-governance-and-compliance-services) - End-to-end responsible AI platform on ServiceNow.
-- [AI Trust Services (KPMG)](https://kpmg.com/us/en/capabilities-services/ai/trusted-ai.html) - Trusted AI framework with governance, model management, and assurance services.
-
-### Law Firms with Dedicated AI Practices
-
-- [AI Law Center (Orrick)](https://ai-law-center.orrick.com/) - 350+ AI lawyers advising on EU AI Act compliance.
-- [AI Legal Services (Bird & Bird)](https://www.twobirds.com/en/capabilities/artificial-intelligence/ai-legal-services) - 500+ tech lawyers globally with compliance programs and contractual frameworks.
-
----
 
 ## Contributing
 
