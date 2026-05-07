@@ -10,6 +10,7 @@
   - [Regulation Text](#regulation-text)
   - [European Commission](#european-commission)
   - [EU AI Office](#eu-ai-office)
+  - [GPAI Code of Practice](#gpai-code-of-practice)
   - [European Parliament & Governance](#european-parliament--governance)
   - [Unofficial Authoritative References](#unofficial-authoritative-references)
 - [Compliance Tools & Platforms](#compliance-tools--platforms)
@@ -90,6 +91,10 @@
 - [European AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) - Coordinates AI Act implementation and enforces GPAI rules.
 - [AI Act Single Information Platform](https://ai-act-service-desk.ec.europa.eu/en) - Interactive compliance tools, AI Act Explorer, Compliance Checker, and FAQs.
 - [EU AI Act Compliance Checker (EC)](https://ai-act-service-desk.ec.europa.eu/en/eu-ai-act-compliance-checker) - Official beta tool for determining obligations.
+
+### GPAI Code of Practice
+
+- [General-Purpose AI Code of Practice](https://code-of-practice.ai/) — Voluntary tool for GPAI providers to demonstrate AI Act compliance on transparency, copyright, and safety.
 
 ### European Parliament & Governance
 
