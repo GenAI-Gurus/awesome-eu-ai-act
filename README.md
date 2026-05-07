@@ -118,12 +118,12 @@
 
 - [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Seven-package, MIT-licensed runtime governance system for autonomous AI agents covering all 10/10 OWASP Agentic Top 10 (2026) with EU AI Act, NIST AI RMF, HIPAA, and SOC 2 mappings. Enforces policy at <0.1ms p99 latency across LangChain, CrewAI, AutoGen, OpenAI Agents, Google ADK, and 8+ agent frameworks. Python, TypeScript, .NET, Rust, and Go (~900+ stars).
 - [Vaara](https://github.com/vaaraio/vaara) - Python library for runtime oversight of AI agents: intercepts tool calls, scores risk via heuristic and opt-in ML classifier, and writes hash-chained audit logs aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). Apache 2.0.
+- [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
 
 ### Curated Lists
 
 - [Awesome AI Regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) - Broader AI regulation ecosystem mapping including guidelines, principles, and standards (~800 stars).
 - [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI) - Curated list of responsible, trustworthy, and human-centered AI
-- - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic accountability infrastructure for AI agents. Bilateral receipts (pre-execution + post-execution Ed25519 signatures, hash-chained via JCS/RFC 8785) produce tamper-evident audit trails for EU AI Act Article 12 record-keeping compliance. Merged into Microsoft Agent Governance Toolkit. 8 byte-match validated implementations, OpenSSF Best Practices passing badge, AAIF Growth-stage proposal filed. TypeScript, MIT (~189K lines, 6,057 tests).resources.
 
 ---
 
