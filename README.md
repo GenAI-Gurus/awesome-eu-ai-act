@@ -123,7 +123,7 @@
 ### Curated Lists
 
 - [Awesome AI Regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) - Broader AI regulation ecosystem mapping including guidelines, principles, and standards (~800 stars).
-- [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI) - Curated list of responsible, trustworthy, and human-centered AI
+- [Awesome Responsible AI](https://github.com/AthenaCore/AwesomeResponsibleAI) - Curated list of responsible, trustworthy, and human-centered AI resources.
 
 ---
 
