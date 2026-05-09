@@ -133,6 +133,7 @@
 
 ### EU AI Act Compliance Platforms
 
+- [ai-act-skills](https://github.com/abk1969/ai-act-skills) - Multi-platform agent skill running natively on Claude Code, Gemini CLI, and OpenAI Codex. Strict ISO/IEC 42001:2023 (AIMS) + 27090:2025 (AI cybersecurity) anchoring — never ISO 27001 as primary AI framework. Citation-grade: every obligation cites article + clause + Annex A control (e.g., art. 9(2)(a) → cl. 6.1.4 + A.5.4). 15 reference files covering risk classification, FRIA (art. 27), Annex IV, post-market, GPAI, sandboxes, AI literacy (art. 4). Machine-readable SSL manifest per arXiv:2604.24026. Reference-only — no network, no credentials, no tool calls. MIT.
 - [VerifyWise](https://github.com/verifywise-ai/verifywise) - Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (~247 stars).
 - [EuConform](https://github.com/Hiepler/EuConform) - Risk classification, bias detection via CrowS-Pairs, and Annex IV-compliant PDF report generation, 100% offline (~107 stars).
 - [EU AI Act MCP Server](https://github.com/SonnyLabs/EU_AI_ACT_MCP) - MCP server with compliance tools including risk classification, prohibited practice checks, and transparency disclosures.
