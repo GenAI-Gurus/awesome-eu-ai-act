@@ -134,6 +134,7 @@
 
 ### EU AI Act Compliance Platforms
 
+- [ai-act-skills](https://github.com/abk1969/ai-act-skills) - Multi-platform agent skills for EU AI Act compliance workflows anchored in ISO/IEC 42001 and ISO/IEC 27090.
 - [VerifyWise](https://github.com/verifywise-ai/verifywise) - Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (~247 stars).
 - [EuConform](https://github.com/Hiepler/EuConform) - Risk classification, bias detection via CrowS-Pairs, and Annex IV-compliant PDF report generation, 100% offline (~107 stars).
 - [EU AI Act MCP Server](https://github.com/SonnyLabs/EU_AI_ACT_MCP) - MCP server with compliance tools including risk classification, prohibited practice checks, and transparency disclosures.
