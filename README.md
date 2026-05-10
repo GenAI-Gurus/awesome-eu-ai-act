@@ -117,7 +117,7 @@
 ### AI Agent Governance
 
 - [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Seven-package, MIT-licensed runtime governance system for autonomous AI agents covering all 10/10 OWASP Agentic Top 10 (2026) with EU AI Act, NIST AI RMF, HIPAA, and SOC 2 mappings. Enforces policy at <0.1ms p99 latency across LangChain, CrewAI, AutoGen, OpenAI Agents, Google ADK, and 8+ agent frameworks. Python, TypeScript, .NET, Rust, and Go (~900+ stars).
-- [agent-security-harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) - Pre-deployment adversarial test framework for autonomous agents with EU AI Act crosswalks. 470+ executable security tests across MCP, A2A, x402, L402 protocols, mapped to OWASP Agentic Top 10 and NIST AI 800-2. Generates conformance evidence for Article 15 (accuracy, robustness, cybersecurity) and Article 12 (record-keeping). Apache 2.0.
+- [agent-security-harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) - Adversarial testing framework for autonomous agents with EU AI Act crosswalks.
 - [Vaara](https://github.com/vaaraio/vaara) - Python library for runtime oversight of AI agents: intercepts tool calls, scores risk via heuristic and opt-in ML classifier, and writes hash-chained audit logs aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). Apache 2.0.
 
 ### Curated Lists
