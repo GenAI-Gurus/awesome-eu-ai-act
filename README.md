@@ -288,6 +288,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [Annex IV: Technical Documentation Requirements (FLI)](https://artificialintelligenceact.eu/annex/4/) - Official text specifying what must be included.
 - [Article 11: Technical Documentation (FLI)](https://artificialintelligenceact.eu/article/11/) - Requirements including simplified forms for SMEs.
 - [Article 17: Quality Management System (FLI)](https://artificialintelligenceact.eu/article/17/) - Full legal text of QMS requirements with 13 mandatory elements.
+- [Public Summary of Training Content Template (EC)](https://digital-strategy.ec.europa.eu/en/library/explanatory-notice-and-template-public-summary-training-content-general-purpose-ai-models) - Mandatory Article 53(1)(d) template for GPAI providers to publicly summarise training data.
 
 ### Timeline & Governance Infographics
 
