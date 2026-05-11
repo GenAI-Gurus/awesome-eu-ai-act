@@ -94,7 +94,7 @@
 
 ### GPAI Code of Practice
 
-- [General-Purpose AI Code of Practice](https://code-of-practice.ai/) — Voluntary tool for GPAI providers to demonstrate AI Act compliance on transparency, copyright, and safety.
+- [General-Purpose AI Code of Practice](https://code-of-practice.ai/) - Voluntary tool for GPAI providers to demonstrate AI Act compliance on transparency, copyright, and safety.
 
 ### European Parliament & Governance
 
