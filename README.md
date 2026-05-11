@@ -22,6 +22,7 @@
   - [Risk Assessment & Classification](#risk-assessment--classification)
   - [Educational & Informational](#educational--informational)
   - [AI Agent Governance](#ai-agent-governance)
+  - [AGT Implementation References](#agt-implementation-references)
   - [Curated Lists](#curated-lists)
 - [Legal Analysis & Guides](#legal-analysis--guides)
   - [Major Law Firm Guides](#major-law-firm-guides)
@@ -139,6 +140,7 @@
 
 ### EU AI Act Compliance Platforms
 
+- [ai-act-skills](https://github.com/abk1969/ai-act-skills) - Multi-platform agent skills for EU AI Act compliance workflows anchored in ISO/IEC 42001 and ISO/IEC 27090.
 - [VerifyWise](https://github.com/verifywise-ai/verifywise) - Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (~247 stars).
 - [EuConform](https://github.com/Hiepler/EuConform) - Risk classification, bias detection via CrowS-Pairs, and Annex IV-compliant PDF report generation, 100% offline (~107 stars).
 - [EU AI Act MCP Server](https://github.com/SonnyLabs/EU_AI_ACT_MCP) - MCP server with compliance tools including risk classification, prohibited practice checks, and transparency disclosures.
@@ -168,7 +170,16 @@
 ### AI Agent Governance
 
 - [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Seven-package, MIT-licensed runtime governance system for autonomous AI agents covering all 10/10 OWASP Agentic Top 10 (2026) with EU AI Act, NIST AI RMF, HIPAA, and SOC 2 mappings. Enforces policy at <0.1ms p99 latency across LangChain, CrewAI, AutoGen, OpenAI Agents, Google ADK, and 8+ agent frameworks. Python, TypeScript, .NET, Rust, and Go (~900+ stars).
+- [agent-security-harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) - Adversarial testing framework for autonomous agents with EU AI Act crosswalks.
 - [Vaara](https://github.com/vaaraio/vaara) - Python library for runtime oversight of AI agents: intercepts tool calls, scores risk via heuristic and opt-in ML classifier, and writes hash-chained audit logs aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). Apache 2.0.
+- [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
+
+### AGT Implementation References
+
+- [AGT EU AI Act Compliance Checklist](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/eu-ai-act-checklist.md) - Maps Agent Governance Toolkit controls to EU AI Act requirements.
+- [AGT NIST AI RMF Alignment](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/nist-ai-rmf-alignment.md) - Maps Agent Governance Toolkit controls to the NIST AI Risk Management Framework.
+- [AGT SOC 2 Type II Mapping](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/compliance/soc2-mapping.md) - Self-assessment mapping Agent Governance Toolkit controls to SOC 2 criteria.
+- [AGT Known Limitations](https://github.com/microsoft/agent-governance-toolkit/blob/main/docs/LIMITATIONS.md) - Documents Agent Governance Toolkit design boundaries and compliance gaps.
 
 ### Curated Lists
 
