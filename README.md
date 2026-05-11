@@ -182,6 +182,16 @@
 
 ---
 
+
+### MEOK AI Labs — Signed-Attestation EU Compliance MCPs
+
+- [meok-eu-ai-act-compliance](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) - Article 6 risk classifier, Article 26(9) FRIA generator, Article 50 transparency obligations. HMAC-signed compliance attestations. MIT.
+- [meok-omnibus-tracker](https://github.com/CSOAI-ORG/meok-omnibus-tracker-mcp) - Track all 8 EU AI Act + GDPR + DORA Digital Omnibus cliff dates and live status of every regulatory delay. MIT.
+- [meok-watermark-attest](https://github.com/CSOAI-ORG/meok-watermark-attest-mcp) - EU AI Act Article 50 watermarking compliance — C2PA + invisible watermark + fingerprint + signed attestation. Hits the 2 August 2026 deadline. MIT.
+- [meok-cra-annex-iv-classifier](https://github.com/CSOAI-ORG/meok-cra-annex-iv-classifier-mcp) - EU CRA (Reg 2024/2847) Annex IV essential security requirements classifier with HMAC-signed compliance attestations. MIT.
+- [meok-nis2-de-register](https://github.com/CSOAI-ORG/meok-nis2-de-register-mcp) - Germany NIS2 BSI register product — Section 30/32 reporting timelines and KRITIS classifications. MIT.
+- [meok-dpia-edpb-template](https://github.com/CSOAI-ORG/meok-dpia-edpb-template-mcp) - EDPB harmonised DPIA template (14 April 2026) + AI Act Article 26(9) FRIA mapping. MIT.
+
 ## Legal Analysis & Guides
 
 ### Major Law Firm Guides
