@@ -10,6 +10,7 @@
   - [Regulation Text](#regulation-text)
   - [European Commission](#european-commission)
   - [EU AI Office](#eu-ai-office)
+  - [GPAI Code of Practice](#gpai-code-of-practice)
   - [European Parliament & Governance](#european-parliament--governance)
   - [Unofficial Authoritative References](#unofficial-authoritative-references)
 - [Compliance Tools & Platforms](#compliance-tools--platforms)
@@ -83,6 +84,7 @@
 - [European Approach to Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence) - Overarching EU AI strategy and AI Continent Action Plan.
 - [AI Act Standardisation](https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation) - Official page on CEN/CENELEC harmonized standards in ten key areas.
 - [Supporting Implementation with Clear Guidelines](https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines) - Published and upcoming guidelines on prohibited practices, high-risk classification, and transparency.
+- [Guidelines on Prohibited AI Practices](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act) - Commission's interpretation of Article 5 prohibitions with practical examples (4 February 2025).
 - [Guidelines on the Definition of an AI System](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application) - Commission breakdown of the seven cumulative elements of the Article 3(1) AI system definition.
 - [AI Literacy Q&A](https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers) - Official FAQ on AI literacy obligations under Article 4.
 - [AI Pact](https://digital-strategy.ec.europa.eu/en/policies/ai-pact) - Voluntary initiative enabling early compliance before legal deadlines.
@@ -92,6 +94,11 @@
 - [European AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) - Coordinates AI Act implementation and enforces GPAI rules.
 - [AI Act Single Information Platform](https://ai-act-service-desk.ec.europa.eu/en) - Interactive compliance tools, AI Act Explorer, Compliance Checker, and FAQs.
 - [EU AI Act Compliance Checker (EC)](https://ai-act-service-desk.ec.europa.eu/en/eu-ai-act-compliance-checker) - Official beta tool for determining obligations.
+
+### GPAI Code of Practice
+
+- [General-Purpose AI Code of Practice](https://code-of-practice.ai/) - Voluntary tool for GPAI providers to demonstrate AI Act compliance on transparency, copyright, and safety.
+- [GPAI Code of Practice (European Commission)](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai) - Official Commission page with the GPAI Code of Practice signatory list, signature process, and Q&A.
 
 ### European Parliament & Governance
 
