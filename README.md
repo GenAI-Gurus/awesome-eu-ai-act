@@ -83,7 +83,7 @@
 - [European Approach to Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence) - Overarching EU AI strategy and AI Continent Action Plan.
 - [AI Act Standardisation](https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation) - Official page on CEN/CENELEC harmonized standards in ten key areas.
 - [Supporting Implementation with Clear Guidelines](https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines) - Published and upcoming guidelines on prohibited practices, high-risk classification, and transparency.
-- [Guidelines on the Definition of an AI System](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-definition-artificial-intelligence-system-established-ai-act) - Commission breakdown of the seven cumulative elements of the Article 3(1) AI system definition.
+- [Guidelines on the Definition of an AI System](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application) - Commission breakdown of the seven cumulative elements of the Article 3(1) AI system definition.
 - [AI Literacy Q&A](https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers) - Official FAQ on AI literacy obligations under Article 4.
 - [AI Pact](https://digital-strategy.ec.europa.eu/en/policies/ai-pact) - Voluntary initiative enabling early compliance before legal deadlines.
 
