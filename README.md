@@ -343,6 +343,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 ### Websites & Blogs
 
 - [EU AI Act Updates & Compliance (Cyber Risk GmbH)](https://www.artificial-intelligence-act.com/) - Compliance-oriented resource with updates, training materials, and implementation timelines.
+- [Audaria — EU AI Act & ISO 42001 Observatory (FR)](https://audaria.fr/) - French-language editorial coverage of Article 26 deployer obligations, FRIA Article 27, and ISO/IEC 42001 implementation for SMEs.
 
 ### Podcasts
 
