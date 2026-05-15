@@ -137,6 +137,7 @@
 - [Hyperproof](https://hyperproof.io/) - Compliance operations with automation for evidence collection and control mapping.
 - [ComplyACT AI](https://complyactai.com/blog/software-for-compliance-management) - Auto-classifies AI systems, generates audit-ready Annex IV documentation, and provides continuous monitoring.
 - [AI Disclosure Kit](https://disclosekit.com) - Generates Article 50 disclosure templates for AI transparency notices.
+- [eucomplyhub](https://eucomplyhub.com/) - Triple-framework EU AI Act audit consulting for mid-market SaaS. Free tools: 30-sec multi-jurisdiction risk classifier (EU AI Act + NIST AI RMF + ISO 42001 + Colorado SB 24-205 + GDPR + 3 more), Claude-powered Annex III deep classifier with 5 priority remediation actions, and EU AI Act ↔ ISO 42001 ↔ NIST AI RMF crosswalk matrix. Engineer-operator angle, not law-firm style.
 ---
 
 ## Open-Source Projects
@@ -148,6 +149,7 @@
 - [EuConform](https://github.com/Hiepler/EuConform) - Risk classification, bias detection via CrowS-Pairs, and Annex IV-compliant PDF report generation, 100% offline (~107 stars).
 - [EU AI Act MCP Server](https://github.com/SonnyLabs/EU_AI_ACT_MCP) - MCP server with compliance tools including risk classification, prohibited practice checks, and transparency disclosures.
 - [MCP EU AI Act Scanner](https://github.com/ark-forge/mcp-eu-ai-act) - Scans codebases for EU AI Act and GDPR compliance gaps and generates auditor-ready Annex IV evidence packages.
+- [@eucomplyhub/mcp-eu-ai-act](https://github.com/eucomplyhub/mcp-eu-ai-act) - MCP server for EU AI Act compliance with multi-jurisdiction overlay across 8+ frameworks (EU AI Act, NIST AI RMF, ISO 42001, OECD, Singapore, GDPR, HIPAA, Colorado SB 24-205). Two tools: deterministic risk classifier and Claude-powered Annex III deep analyzer with 5 priority remediation actions. MIT licensed.
 - [EU AI Act Compliance Checker](https://github.com/ARQNXS/eu-ai-act-compliance-checker) - Interactive web-based questionnaire for assessing compliance and generating reports.
 - [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
 
