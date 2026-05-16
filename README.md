@@ -176,6 +176,7 @@
 - [agent-security-harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) - Adversarial testing framework for autonomous agents with EU AI Act crosswalks.
 - [Vaara](https://github.com/vaaraio/vaara) - Python library for runtime oversight of AI agents: intercepts tool calls, scores risk via heuristic and opt-in ML classifier, and writes hash-chained audit logs aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). Apache 2.0.
 - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
+- [EATF — Agent Trust Framework](https://github.com/tyche-institute/eatf) - Open specification + TypeScript reference implementation for cryptographically verifiable AI agent self-attestation. Produces offline-verifiable Agent Evidence Packages (.aep) with RSASSA-PKCS1-v1_5 plus ML-DSA-65 post-quantum signatures, RFC 3161 timestamps, and OVERT 1.0 receipts. Ships offline `eatf-sign` + `eatf-verify` + `eatf-inspect` CLIs, conformance test vectors, and a JSON Schema for the AEP metadata envelope. Apache 2.0; DCO sign-off; no managed-service surface. Explicitly NOT an eIDAS trust service under Article 3(16); attestations are technical self-attestations, not QEAA under Article 3(45). Maintained by Tyche Institute (Estonian non-profit, in formation).
 
 ### AGT Implementation References
 
