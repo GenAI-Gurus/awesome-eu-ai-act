@@ -34,6 +34,7 @@
   - [NIST AI Risk Management Framework](#nist-ai-risk-management-framework)
   - [CEN/CENELEC Standardization (JTC 21)](#cencenelec-standardization-jtc-21)
   - [ENISA Cybersecurity](#enisa-cybersecurity)
+  - [Data Protection Authorities](#data-protection-authorities)
   - [OECD & International](#oecd--international)
   - [IEEE Standards](#ieee-standards)
   - [UK ICO AI Guidance](#uk-ico-ai-guidance)
@@ -251,6 +252,10 @@
 
 - [Cybersecurity of AI and Standardisation (ENISA)](https://www.enisa.europa.eu/publications/cybersecurity-of-ai-and-standardisation) - Assessment of AI cybersecurity standards with gap analysis.
 - [Multilayer Framework for AI Cybersecurity (ENISA)](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai) - Three-layer framework for securing AI systems.
+
+### Data Protection Authorities
+
+- [EDPB Opinion 28/2024 on AI Models and GDPR](https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-282024-certain-data-protection-aspects_en) - EDPB position on AI model anonymity, legitimate interest as legal basis, and unlawful training data.
 
 ### OECD & International
 
