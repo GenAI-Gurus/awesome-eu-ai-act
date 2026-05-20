@@ -154,7 +154,7 @@
 
 ### Reference Implementations
 
-- [PRML / falsify](https://spec.falsify.dev/v0.1) - Open specification for pre-registering ML evaluation claims as SHA-256 manifests before the experiment runs.
+- [PRML / falsify](https://spec.falsify.dev/v0.1) - Open specification for pre-registering ML evaluation claims with tamper-evident hashes.
 - [Practical AI Act](https://github.com/aai-institute/practical-ai-act) - Implementation of a high-risk AI system per Chapter III using an open-source ML pipeline (Bavarian AI Act Accelerator).
 - [AI Act Engineering](https://github.com/visenger/aiact-engineering) - Curated reference list for engineering practices ensuring AI systems comply with AI Act regulations.
 - [AI Act Technical Documentation Assessment Tools](https://github.com/Francesco-Sovrano/AI-Act-Compliance-Technical-Documentation-Assessment-Tools) - Research replication package for using AI to draft Annex IV-compliant technical documentation.
