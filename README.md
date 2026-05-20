@@ -154,7 +154,7 @@
 
 ### Reference Implementations
 
-- [PRML / falsify](https://spec.falsify.dev/v0.1) - Open specification (CC BY 4.0) for committing an ML evaluation claim to a SHA-256 hash before the experiment runs. Eight-field YAML, deterministic canonicalization, four byte-equivalent reference implementations (Python, JavaScript, Go, Rust). Subcategory crosswalk to [Article 12 logging](https://spec.falsify.dev/eu-ai-act/article-12/), [NIST AI RMF](https://spec.falsify.dev/nist-ai-rmf/), and [ISO/IEC 42001](https://spec.falsify.dev/iso-42001/). Zenodo DOI [10.5281/zenodo.20177839](https://doi.org/10.5281/zenodo.20177839), in [SchemaStore](https://www.schemastore.org/) catalog.
+- [PRML / falsify](https://spec.falsify.dev/v0.1) - Open specification for pre-registering ML evaluation claims as SHA-256 manifests before the experiment runs.
 - [Practical AI Act](https://github.com/aai-institute/practical-ai-act) - Implementation of a high-risk AI system per Chapter III using an open-source ML pipeline (Bavarian AI Act Accelerator).
 - [AI Act Engineering](https://github.com/visenger/aiact-engineering) - Curated reference list for engineering practices ensuring AI systems comply with AI Act regulations.
 - [AI Act Technical Documentation Assessment Tools](https://github.com/Francesco-Sovrano/AI-Act-Compliance-Technical-Documentation-Assessment-Tools) - Research replication package for using AI to draft Annex IV-compliant technical documentation.
