@@ -34,6 +34,7 @@
   - [NIST AI Risk Management Framework](#nist-ai-risk-management-framework)
   - [CEN/CENELEC Standardization (JTC 21)](#cencenelec-standardization-jtc-21)
   - [ENISA Cybersecurity](#enisa-cybersecurity)
+  - [Data Protection Authorities](#data-protection-authorities)
   - [OECD & International](#oecd--international)
   - [IEEE Standards](#ieee-standards)
   - [UK ICO AI Guidance](#uk-ico-ai-guidance)
@@ -143,6 +144,7 @@
 
 ### EU AI Act Compliance Platforms
 
+- [ai-act-conformity-pack](https://github.com/plusultra-tools/ai-act-conformity-pack) - Generates an Annex IV technical-documentation skeleton (Articles 11-15) from a YAML model card. Python CLI, MIT.
 - [ai-act-skills](https://github.com/abk1969/ai-act-skills) - Multi-platform agent skills for EU AI Act compliance workflows anchored in ISO/IEC 42001 and ISO/IEC 27090.
 - [VerifyWise](https://github.com/verifywise-ai/verifywise) - Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (~247 stars).
 - [EuConform](https://github.com/Hiepler/EuConform) - Risk classification, bias detection via CrowS-Pairs, and Annex IV-compliant PDF report generation, 100% offline (~107 stars).
@@ -150,6 +152,7 @@
 - [MCP EU AI Act Scanner](https://github.com/ark-forge/mcp-eu-ai-act) - Scans codebases for EU AI Act and GDPR compliance gaps and generates auditor-ready Annex IV evidence packages.
 - [EU AI Act Compliance Checker](https://github.com/ARQNXS/eu-ai-act-compliance-checker) - Interactive web-based questionnaire for assessing compliance and generating reports.
 - [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
+- [@eucomplyhub/mcp-eu-ai-act](https://github.com/eucomplyhub/mcp-eu-ai-act) - MCP server for EU AI Act risk classification and Annex III analysis.
 
 ### Reference Implementations
 
@@ -176,6 +179,7 @@
 - [agent-security-harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) - Adversarial testing framework for autonomous agents with EU AI Act crosswalks.
 - [Vaara](https://github.com/vaaraio/vaara) - Python library for runtime oversight of AI agents: intercepts tool calls, scores risk via heuristic and opt-in ML classifier, and writes hash-chained audit logs aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). Apache 2.0.
 - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
+- [EATF](https://github.com/tyche-institute/eatf) - Open specification and reference implementation for verifiable AI agent self-attestation.
 
 ### AGT Implementation References
 
@@ -251,6 +255,10 @@
 
 - [Cybersecurity of AI and Standardisation (ENISA)](https://www.enisa.europa.eu/publications/cybersecurity-of-ai-and-standardisation) - Assessment of AI cybersecurity standards with gap analysis.
 - [Multilayer Framework for AI Cybersecurity (ENISA)](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai) - Three-layer framework for securing AI systems.
+
+### Data Protection Authorities
+
+- [EDPB Opinion 28/2024 on AI Models and GDPR](https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-282024-certain-data-protection-aspects_en) - EDPB position on AI model anonymity, legitimate interest as legal basis, and unlawful training data.
 
 ### OECD & International
 
