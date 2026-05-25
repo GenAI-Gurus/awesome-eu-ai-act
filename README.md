@@ -236,6 +236,7 @@
 ### ISO/IEC Standards
 
 - [ISO/IEC 42001:2023 - AI Management System](https://www.iso.org/standard/42001) - World's first certifiable AI management system standard (AIMS).
+- [ISO 42001 Visual Library](https://github.com/nelsambrose/ISO-42001-Visual-Library) - Visual learning library for ISO/IEC 42001:2023 covering clauses, Annex A controls, and the PDCA cycle through infographics.
 - [ISO/IEC 23894:2023 - AI Risk Management](https://www.iso.org/standard/84110.html) - AI-specific risk management guidance adapting ISO 31000 to AI system lifecycles.
 - [ISO/IEC 38507:2022 - Governance of AI](https://www.iso.org/standard/81283.html) - Governance guidance for organizational AI use and leadership accountability.
 - [ISO/IEC 42005:2025 - AI Impact Assessment](https://www.iso.org/standard/42005) - Framework for understanding AI system impacts on individuals, groups, and society.
