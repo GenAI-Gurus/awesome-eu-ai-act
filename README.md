@@ -396,6 +396,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [AI Fairness 360 (IBM/Linux Foundation)](https://github.com/Trusted-AI/AIF360) - 70+ fairness metrics and 10+ bias mitigation algorithms (~2,500 stars).
 - [Fairlearn (Microsoft)](https://github.com/fairlearn/fairlearn) - Assessing and improving fairness with group fairness metrics and mitigation algorithms (~1,900 stars).
 - [Aequitas (University of Chicago)](https://github.com/dssg/aequitas) - Bias and fairness audit toolkit across multiple population sub-groups.
+- [fmm-fairness-eval](https://github.com/Ces107/fmm-fairness-eval-cli) - SaMD-specific fairness CLI; treats hospital/site as a first-class protected attribute and maps metrics to AI Act Art. 9, 10, 15 with a SHA-256 audit chain.
 - [What-If Tool (Google)](https://pair-code.github.io/what-if-tool/) - Visual, interactive model analysis without code.
 - [Responsible AI Toolbox (Microsoft)](https://github.com/microsoft/responsible-ai-toolbox) - Unified dashboard combining Fairlearn, InterpretML, Error Analysis, and Counterfactual Analysis (~1,300 stars).
 
