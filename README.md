@@ -154,6 +154,7 @@
 - [EU AI Act Compliance Checker](https://github.com/ARQNXS/eu-ai-act-compliance-checker) - Interactive web-based questionnaire for assessing compliance and generating reports.
 - [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
 - [@eucomplyhub/mcp-eu-ai-act](https://github.com/eucomplyhub/mcp-eu-ai-act) - MCP server for EU AI Act risk classification and Annex III analysis.
+- [audit-in-a-box](https://github.com/TAIKER656/audit-in-a-box-cli) - Scopes EU AI Act Article 26 deployer obligations and the Annex IV documents to request from your provider, in ~60 seconds. Node CLI, zero-dependency, MIT.
 
 ### Reference Implementations
 
