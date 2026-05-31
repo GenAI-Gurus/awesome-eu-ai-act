@@ -154,7 +154,7 @@
 - [EU AI Act Compliance Checker](https://github.com/ARQNXS/eu-ai-act-compliance-checker) - Interactive web-based questionnaire for assessing compliance and generating reports.
 - [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
 - [@eucomplyhub/mcp-eu-ai-act](https://github.com/eucomplyhub/mcp-eu-ai-act) - MCP server for EU AI Act risk classification and Annex III analysis.
-- [EU AI Act Compliance Tool](https://github.com/SuhanaSayyad039/eu-ai-act-compliance-tool) — Unified compliance pipeline for high-risk credit scoring AI covering FRIA, cybersecurity, explainability, bias and risk scoring.
+- [EU AI Act Compliance Tool](https://github.com/SuhanaSayyad039/eu-ai-act-compliance-tool) - Unified compliance pipeline for high-risk credit scoring AI covering FRIA, cybersecurity, explainability, bias and risk scoring.
 
 ### Reference Implementations
 
