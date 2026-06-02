@@ -155,6 +155,8 @@
 - [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
 - [@eucomplyhub/mcp-eu-ai-act](https://github.com/eucomplyhub/mcp-eu-ai-act) - MCP server for EU AI Act risk classification and Annex III analysis.
 
+- [eu-ai-act-compliance-mcp (MEOK AI Labs)](https://github.com/CSOAI-ORG/eu-ai-act-compliance-mcp) - MCP server covering all 410 EU AI Act articles via full-text search, risk classification, Article 50 / GPAI obligation checks, Annex IV evidence packs, and HMAC-signed attestations. Part of a 290-server compliance suite (EU AI Act, DORA, NIS2, CRA, GDPR, ISO 42001) on the official MCP Registry + PyPI; also deployable as a hosted streamable-HTTP endpoint on Cloud Run. MIT.
+
 ### Reference Implementations
 
 - [PRML / falsify](https://spec.falsify.dev/v0.1) - Open specification for pre-registering ML evaluation claims with tamper-evident hashes.
