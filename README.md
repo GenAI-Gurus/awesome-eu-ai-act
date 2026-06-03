@@ -82,6 +82,7 @@
 - [Hyperproof](https://hyperproof.io/) - Compliance operations with automation for evidence collection and control mapping.
 - [ComplyACT AI](https://complyactai.com/blog/software-for-compliance-management) - Auto-classifies AI systems, generates audit-ready Annex IV documentation, and provides continuous monitoring.
 - [AI Disclosure Kit](https://disclosekit.com) - Generates Article 50 disclosure templates for AI transparency notices.
+- [TinyTools AI Content Disclosure Generator](https://tinytools-smoky.vercel.app/) - Free browser-based generator for EU AI Act Article 50 compliant content disclosure labels. Also includes an AI Robots.txt Generator for automated AI crawler controls. Runs entirely in the browser, no signup. Open source.
 ---
 
 ## Open-Source Projects
