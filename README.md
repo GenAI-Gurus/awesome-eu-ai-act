@@ -182,6 +182,7 @@
 - [Vaara](https://github.com/vaaraio/vaara) - Python library for runtime oversight of AI agents: intercepts tool calls, scores risk via heuristic and opt-in ML classifier, and writes hash-chained audit logs aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). Apache 2.0.
 - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
 - [EATF](https://github.com/tyche-institute/eatf) - Open specification and reference implementation for verifiable AI agent self-attestation.
+- [Determs](https://github.com/determs-com/determs) - Open standard (Verifiable Decision Record spec, CC-BY-4.0) and reference implementation for verifiable automated decisions. Captures each AI agent action as a structured record with RFC 8785 canonical SHA-256 digests; optionally anchors the record's digest to public infrastructure (OpenTimestamps → Bitcoin) so existence-in-time is independently provable without a signing key in the trust path. `determs.compliance` builds self-verifying evidence packs scoped to a system and retention window, with a machine-readable mapping to EU AI Act Art. 12 (automatic event recording) and Art. 19 (provable ≥6-month retention). Python SDK + Rust CLI. Apache-2.0 (code), CC-BY-4.0 (spec). ([determs.com](https://determs.com) | [PyPI](https://pypi.org/project/determs/))
 
 ### AGT Implementation References
 
