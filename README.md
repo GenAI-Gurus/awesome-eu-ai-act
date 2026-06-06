@@ -182,6 +182,7 @@
 - [Vaara](https://github.com/vaaraio/vaara) - Python library for runtime oversight of AI agents: intercepts tool calls, scores risk via heuristic and opt-in ML classifier, and writes hash-chained audit logs aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). Apache 2.0.
 - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
 - [EATF](https://github.com/tyche-institute/eatf) - Open specification and reference implementation for verifiable AI agent self-attestation.
+- [Determs](https://github.com/determs-com/determs) - Open specification and reference implementation for recording and verifying automated decisions, with evidence mappings to EU AI Act record-keeping requirements.
 
 ### AGT Implementation References
 
