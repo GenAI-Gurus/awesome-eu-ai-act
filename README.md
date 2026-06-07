@@ -350,6 +350,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [Luiza's Newsletter (Luiza Jarovsky, PhD)](https://www.luizasnewsletter.com/) - 93,000+ subscribers covering AI legal and ethical challenges and rights.
 - [The AI Policy Newsletter (Alisar Mustafa)](https://alisarmustafa.substack.com/) - Global AI policy including EU AI Act, US state laws, and international developments.
 - [Thoughts on AI Policy (MIT & Harvard)](https://aipolicy.substack.com/) - Academic newsletter on AI accountability, transparency, and regulation.
+- [Signato](https://signato.ai) - Weekly brief on the EU AI Act and global AI governance for HR and compliance teams.
 
 ### Websites & Blogs
 
