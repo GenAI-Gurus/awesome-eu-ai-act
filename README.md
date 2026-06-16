@@ -1,6 +1,6 @@
 # Awesome EU AI Act [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> EU regulation governing the development and deployment of artificial intelligence systems, establishing a risk-based compliance framework with obligations phasing in through 2027.
+> EU regulation governing the development and deployment of artificial intelligence systems, establishing a risk-based compliance framework with phased implementation timelines.
 
 ---
 
@@ -83,11 +83,13 @@
 
 - [AI Act - Shaping Europe's Digital Future](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) - Commission's main AI Act landing page with implementation timeline and guidelines.
 - [European Approach to Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence) - Overarching EU AI strategy and AI Continent Action Plan.
+- [Digital Omnibus on AI Regulation Proposal](https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal) - Proposal to simplify AI Act implementation and adjust high-risk timelines.
 - [AI Act Standardisation](https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation) - Official page on CEN/CENELEC harmonized standards in ten key areas.
 - [Supporting Implementation with Clear Guidelines](https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines) - Published and upcoming guidelines on prohibited practices, high-risk classification, and transparency.
 - [Guidelines on Prohibited AI Practices](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act) - Commission's interpretation of Article 5 prohibitions with practical examples (4 February 2025).
 - [Guidelines on the Definition of an AI System](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application) - Commission breakdown of the seven cumulative elements of the Article 3(1) AI system definition.
 - [Guidelines on the Scope of Obligations for Providers of GPAI Models](https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers) - Commission interpretation of GPAI definition, the 10²³ FLOP threshold, and downstream-provider duties.
+- [Code of Practice on Marking and Labelling AI-Generated Content](https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content) - Final voluntary Article 50 code for marking, detection, and labelling workflows.
 - [AI Literacy Q&A](https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers) - Official FAQ on AI literacy obligations under Article 4.
 - [AI Pact](https://digital-strategy.ec.europa.eu/en/policies/ai-pact) - Voluntary initiative enabling early compliance before legal deadlines.
 
@@ -105,6 +107,8 @@
 ### European Parliament & Governance
 
 - [EU AI Act Explainer (European Parliament)](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence) - Parliament's guide covering risk levels, prohibitions, and timeline.
+- [AI Act Simplification Vote (European Parliament)](https://www.europarl.europa.eu/news/en/press-room/20260611IPR45207/) - Parliament vote on AI Omnibus delays, nudifier-app ban, and next Council step.
+- [Digital Omnibus on AI Procedure File](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0359%28COD%29) - Legislative tracker for the Digital Omnibus on AI file.
 - [European AI Board](https://digital-strategy.ec.europa.eu/en/policies/ai-board) - Member State representatives advising on consistent implementation.
 - [Ethics Guidelines for Trustworthy AI (HLEG)](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) - Landmark 2019 seven-requirement framework that shaped the AI Act.
 
