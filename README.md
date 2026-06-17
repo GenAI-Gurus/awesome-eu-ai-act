@@ -173,6 +173,7 @@
 - [AI Act Implementation Tool (Algorithm Audit)](https://github.com/NGO-Algorithm-Audit/AI-Act-Implementation-Tool) - Risk classification of algorithmic systems using simplified questionnaires.
 - [Algoritmekader (Dutch Government)](https://github.com/MinBZK/Algoritmekader) - Netherlands' open-source Algorithm Framework for lawful and ethical government AI use.
 - [Regula](https://github.com/kuzivaai/getregula) - CLI for EU AI Act risk scanning, conformity evidence packs, and CrowS-Pairs bias evaluation.
+- [AI Act Companion](https://github.com/JKasteele/ai-act-companion) - Local-first, MIT-licensed risk classifier (prohibited/high/limited/minimal) with an architecture-aware AI-security lens (OWASP LLM Top 10, MITRE ATLAS, STRIDE); deterministic and cited, and generates DPIA, Annex IV, FRIA and a conformity tracker, with NIST AI RMF + ISO 42001 crosswalks. [Live demo](https://huggingface.co/spaces/JesseKasteele/ai-act-companion).
 
 ### Educational & Informational
 
