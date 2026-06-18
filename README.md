@@ -412,6 +412,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [Arize AI](https://arize.com/) - Unified AI observability: experiment tracking, production monitoring, and LLM observability.
 - [WhyLabs](https://whylabs.ai/) - Privacy-preserving AI observability with real-time anomaly detection.
 - [NannyML](https://www.nannyml.com/) - Python library specializing in estimating model performance before ground truth arrives.
+- [Future AGI](https://futureagi.com/) - Open-source platform for agent simulation, evaluating, tracing, guarding, and auto-improving AI agents
 
 ### Robustness & Adversarial Security
 
