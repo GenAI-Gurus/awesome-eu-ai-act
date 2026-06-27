@@ -186,6 +186,7 @@
 - [Vaara](https://github.com/vaaraio/vaara) - Python library for runtime oversight of AI agents: intercepts tool calls, scores risk via heuristic and opt-in ML classifier, and writes hash-chained audit logs aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). Apache 2.0.
 - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
 - [EATF](https://github.com/tyche-institute/eatf) - Open specification and reference implementation for verifiable AI agent self-attestation.
+- [CSOAI Layer-0](https://github.com/CSOAI-ORG/oscal-generator-mcp) - Open-source governed-MCP fleet that Ed25519-signs every agent and legacy-system action and emits machine-readable NIST OSCAL (EU AI Act Article 12). A 79-component signed Layer-0 package validates under compliance-trestle, with offline in-browser verification. Uniquely governs legacy systems (COBOL/SAP/SCADA/HL7/ISO-20022) that modern agent-governance tools do not reach. Apache-2.0.
 
 ### AGT Implementation References
 
