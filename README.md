@@ -143,6 +143,7 @@
 - [ComplyACT AI](https://complyactai.com/blog/software-for-compliance-management) - Auto-classifies AI systems, generates audit-ready Annex IV documentation, and provides continuous monitoring.
 - [AI Disclosure Kit](https://disclosekit.com) - Generates Article 50 disclosure templates for AI transparency notices.
 - [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) - Source-traced examples for AI-chat and synthetic-content notices.
+- [YRproject AI Act Scan](https://yrproject.nl/scan.html) - Free self-assessment scan that maps which AI Act obligations apply and returns a readiness overview.
 ---
 
 ## Open-Source Projects
@@ -178,6 +179,7 @@
 
 - [EU AI Act Interactive Guide](https://github.com/niranjanxprt/eu-ai-act) - Comprehensive interactive guide for startups and SMEs with compliance checker and risk assessment.
 - [Hugging Face EU AI Act Guide for OSS Developers](https://github.com/huggingface/blog/blob/main/eu-ai-act-for-oss-developers.md) - Official guide covering obligations for GPAI models, copyright compliance, and documentation requirements.
+- [YRproject EU AI Act Knowledge Base](https://yrproject.nl) - Free trilingual (EN/NL/DE) reference covering AI Act articles, definitions, and implementation guidance, with sector and HR angles.
 
 ### AI Agent Governance
 
