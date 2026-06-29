@@ -76,3 +76,15 @@ MIT © [CSOAI-ORG](https://github.com/CSOAI-ORG)
 <p align="center">
   <sub>Built with 💜 by <a href="https://meok.ai">MEOK AI Labs</a> · UK Companies House 16939677</sub>
 </p>
+
+
+## MCP Servers (CSOAI/MEOK Labs)
+
+*531 MIT-licensed MCP servers — the largest open-source MCP organization on GitHub. 97-component Ed25519-signed OSCAL Layer-0 proof. 479 deploy-ready.*
+
+- **[meok-defoneos-mcp](https://github.com/CSOAI-ORG/meok-defoneos-mcp)** — 7 MCPs (airspace / BVLOS / firmware attestation / governance / TAK / OSPD / cyber) wrapped into a sovereign UK defence-AI governance surface. 28-domain compliance.
+- **[cra-compliance-mcp](https://github.com/CSOAI-ORG/cra-compliance-mcp)** — EU Cyber Resilience Act (Reg 2024/2847). Products with digital elements, CE marking, SBOM.
+- **[mica-crypto-mcp](https://github.com/CSOAI-ORG/mica-crypto-mcp)** — EU MiCA (Reg 2023/1114) for crypto-asset issuers, exchanges, CASPs.
+- **[oscal-generator-mcp](https://github.com/CSOAI-ORG/oscal-generator-mcp)** — Machine-readable NIST OSCAL + Ed25519 signer.
+- **[solvency-ii-mcp](https://github.com/CSOAI-ORG/solvency-ii-mcp)** — First OSS Solvency II implementation (€10T market, ~5,000 firms).
+
