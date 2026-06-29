@@ -186,6 +186,7 @@
 - [Vaara](https://github.com/vaaraio/vaara) - Python runtime evidence layer for AI agents: policy-gated tool calls, hash-chained tamper-evident audit trails with external time anchoring, and independently verifiable execution receipts, aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). AGPL-3.0-or-later.
 - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
 - [EATF](https://github.com/tyche-institute/eatf) - Open specification and reference implementation for verifiable AI agent self-attestation.
+- [CorvinOS](https://github.com/CorvinLabs/CorvinOS) - Self-hosted agentic OS that enforces EU AI Act Art. 50 (bot-disclosure), Art. 5 (acceptable-use gate), GDPR Art. 6/7 (deny-by-default consent gate), Art. 17 (erasure orchestrator), and Art. 30/32 (hash-chained audit log) as **structural runtime constraints** — none can be bypassed by configuration or environment variable. Bridges Ollama and cloud LLMs to Discord, Telegram, WhatsApp, Slack, and Email. Apache-2.0.
 
 ### AGT Implementation References
 
