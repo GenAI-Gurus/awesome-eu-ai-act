@@ -166,6 +166,7 @@
 - [AI Act Engineering](https://github.com/visenger/aiact-engineering) - Curated reference list for engineering practices ensuring AI systems comply with AI Act regulations.
 - [AI Act Technical Documentation Assessment Tools](https://github.com/Francesco-Sovrano/AI-Act-Compliance-Technical-Documentation-Assessment-Tools) - Research replication package for using AI to draft Annex IV-compliant technical documentation.
 - [AIR Blackbox](https://github.com/airblackbox) - Open-source trust infrastructure with 39 EU AI Act compliance checks, decision traceability, and audit chains across 11 PyPI packages.
+- [Markovian audit-anchor](https://github.com/MarkovianProtocol/audit-anchor) - Reference implementation making any audit trail tamper-evident and independently verifiable: canonicalize the log (RFC 8785), hash-chain it, commit the head to an external append-only timestamp (RFC 3161 or OpenTimestamps to Bitcoin), and verify offline by recomputation. Maps to record-keeping under Article 12.
 
 ### Risk Assessment & Classification
 
