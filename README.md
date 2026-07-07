@@ -294,6 +294,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [Essential Checklist for EU AI Act Compliance (OneTrust)](https://www.onetrust.com/resources/essential-checklist-for-responsible-eu-ai-act-compliance-checklist/) - Downloadable with scope insights and compliance foundations.
 - [AI Act Compliance Checklist (Vanta)](https://www.vanta.com/resources/eu-ai-act-checklist) - Links AI Act compliance to ISO 42001 certification.
 - [EU AI Act 90-Day Implementation Playbook (Secure Privacy)](https://secureprivacy.ai/blog/eu-ai-act-implementation-guide) - Structured sprint covering AI system inventory, risk classification, impact assessment, and governance.
+- [EU AI Act Compliance Checklist (Sorena AI)](https://www.sorena.io/artifacts/eu/artificial-intelligence-act/checklist) - Checklist by risk class, role, evidence, and incident duties.
 
 ### FRIA Templates (Fundamental Rights Impact Assessment)
 
@@ -301,11 +302,13 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [FRIA Guide (ECNL & Danish Institute)](https://ecnl.org/publications/guide-fundamental-rights-impact-assessments-fria) - Five-phase roadmap with downloadable questionnaire.
 - [FRIA Template (VerifyWise)](https://www.verifywise.ai/ai-governance-library/assessment-and-evaluation/eu-ai-act-fria-template) - Template with impact indicators and risk assessment matrices.
 - [Free FRIA Template (KLA Digital)](https://kla.digital/blog/fria-template-eu-ai-act) - Free template with practical examples for financial services, healthcare, and HR.
+- [EU AI Act FRIA Guide (Sorena AI)](https://www.sorena.io/artifacts/eu/artificial-intelligence-act/fria-and-high-risk-impact-assessments) - Article 27 scope, DPIA overlap, and evidence checklist.
 
 ### Conformity Assessment
 
 - [Conformity Assessment Step-by-Step Guide (Future of Privacy Forum)](https://fpf.org/wp-content/uploads/2025/04/OT-comformity-assessment-under-the-eu-ai-act-WP-1.pdf) - Detailed walkthrough of the conformity assessment process for high-risk AI systems.
 - [AI Act Conformity Tool (European DIGITAL SME Alliance)](https://www.digitalsme.eu/ai-act-conformity-tool/) - Interactive tool for SMEs to assess risk level and receive a conformity report.
+- [EU AI Act Conformity Assessment Guide (Sorena AI)](https://www.sorena.io/artifacts/eu/artificial-intelligence-act/conformity-assessment-and-notified-bodies) - Routes, CE marking, declarations, and notified-body triggers.
 
 ### Technical Documentation (Annex IV)
 
@@ -313,12 +316,14 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [Article 11: Technical Documentation (FLI)](https://artificialintelligenceact.eu/article/11/) - Requirements including simplified forms for SMEs.
 - [Article 17: Quality Management System (FLI)](https://artificialintelligenceact.eu/article/17/) - Full legal text of QMS requirements with 13 mandatory elements.
 - [Public Summary of Training Content Template (EC)](https://digital-strategy.ec.europa.eu/en/library/explanatory-notice-and-template-public-summary-training-content-general-purpose-ai-models) - Mandatory Article 53(1)(d) template for GPAI providers to publicly summarise training data.
+- [EU AI Act Technical Documentation Templates (Sorena AI)](https://www.sorena.io/artifacts/eu/artificial-intelligence-act/technical-documentation-and-provider-evidence-templates) - Annex IV fields, QMS, logs, and post-market evidence.
 
 ### Timeline & Governance Infographics
 
 - [EU AI Act Implementation Timeline (FPF)](https://fpf.org/wp-content/uploads/2025/04/FPF_EU_AI_Act_Timeline_R4_-_2025_Update.pdf) - Detailed visual timeline infographic (2025 update).
 - [EU AI Act Governance Architecture (FPF)](https://fpf.org/wp-content/uploads/2025/04/FPF_AI_Governance_Framework_IG_11x17_FINAL_-_2025_Update.pdf) - Visual framework mapping the AI Act's institutional architecture.
 - [EU AI Model Contractual Clauses (European Commission)](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/updated-eu-ai-model-contractual-clauses) - Model contractual clauses for AI procurement aligned with the AI Act.
+- [EU AI Act Timeline and Compliance Guide (Sorena AI)](https://www.sorena.io/artifacts/eu/artificial-intelligence-act) - Phased dates, risk tiers, roles, and evidence records.
 
 ---
 
@@ -359,6 +364,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 
 - [EU AI Act Updates & Compliance (Cyber Risk GmbH)](https://www.artificial-intelligence-act.com/) - Compliance-oriented resource with updates, training materials, and implementation timelines.
 - [Audaria](https://audaria.fr/) - French-language coverage of the EU AI Act, ISO/IEC 42001, and AI governance for SMEs.
+- [EU AI Act FAQ Index (Sorena AI)](https://www.sorena.io/artifacts/eu/artificial-intelligence-act/faq/items) - Searchable answers on scope, roles, high-risk AI, GPAI, and FRIAs.
 
 ### Podcasts
 
