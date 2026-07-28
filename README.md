@@ -143,6 +143,7 @@
 - [ComplyACT AI](https://complyactai.com/blog/software-for-compliance-management) - Auto-classifies AI systems, generates audit-ready Annex IV documentation, and provides continuous monitoring.
 - [AI Disclosure Kit](https://disclosekit.com) - Generates Article 50 disclosure templates for AI transparency notices.
 - [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) - Source-traced examples for AI-chat and synthetic-content notices.
+- [Shim](https://getshim.tech) - AI gateway enforcing compliance on the LLM request path: PII redaction before prompts reach providers (including Turkish TCKN/VKN), a tamper-evident hash-chain audit log with daily Merkle anchors for Article 12 record-keeping, human-oversight flagging, and Annex IV-style evidence reports.
 ---
 
 ## Open-Source Projects
