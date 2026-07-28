@@ -302,6 +302,10 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [FRIA Template (VerifyWise)](https://www.verifywise.ai/ai-governance-library/assessment-and-evaluation/eu-ai-act-fria-template) - Template with impact indicators and risk assessment matrices.
 - [Free FRIA Template (KLA Digital)](https://kla.digital/blog/fria-template-eu-ai-act) - Free template with practical examples for financial services, healthcare, and HR.
 
+### AI Policy Templates
+
+- [AI Policy Template for Swedish SMEs (Gracestack)](https://tools.gracestack.se/ai-policy.html) — Complete, legally-grounded AI policy template in Swedish. Covers AI Act Articles 3–4, risk classification matrix, ChatGPT/Copilot usage rules, GDPR alignment, human oversight requirements, and incident reporting. Delivered as Word + PDF. 499 SEK (Klarna — pay in 30 days).
+
 ### Conformity Assessment
 
 - [Conformity Assessment Step-by-Step Guide (Future of Privacy Forum)](https://fpf.org/wp-content/uploads/2025/04/OT-comformity-assessment-under-the-eu-ai-act-WP-1.pdf) - Detailed walkthrough of the conformity assessment process for high-risk AI systems.
