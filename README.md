@@ -143,6 +143,7 @@
 - [ComplyACT AI](https://complyactai.com/blog/software-for-compliance-management) - Auto-classifies AI systems, generates audit-ready Annex IV documentation, and provides continuous monitoring.
 - [AI Disclosure Kit](https://disclosekit.com) - Generates Article 50 disclosure templates for AI transparency notices.
 - [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) - Source-traced examples for AI-chat and synthetic-content notices.
+- [ISMS Copilot](https://www.ismscopilot.com/) - Specialized AI assistant for EU AI Act and ISO 42001 work, with a free browser risk-tier checker.
 ---
 
 ## Open-Source Projects
