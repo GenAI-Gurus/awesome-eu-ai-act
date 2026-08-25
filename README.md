@@ -46,6 +46,7 @@ The [EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R
 - **[COMPL-AI](https://github.com/compl-ai/compl-ai)** — Compliance-centered LLM evaluation framework with 29+ benchmarks mapped to EU AI Act technical requirements. Built on UK AISI Inspect. By ETH Zurich, INSAIT, and LatticeFlow AI.
 - **[Regulus](https://github.com/neul-labs/regulus)** — Open-source Java compliance plane for Google ADK with 10 regulation profiles. Key differentiator: encodes EU AI Act Articles 9/10/50, GDPR Art. 5(1)(b), DORA Art. 28, NIS2, UK GDPR, FCA SYSC, PRA SS1/23 as composable runtime `BasePlugin` profiles that intersect at the strictest setting per agent session. Hash-chained audit envelopes + GRC adapters.
 - **[CorvinOS](https://github.com/CorvinLabs/CorvinOS)** — Self-hosted agentic runtime that enforces EU AI Act Art. 50 bot disclosure, hash-chained Art. 12 audit logging and per-user GDPR consent as architectural constraints rather than optional settings. Ships GDPR ROPA and AI Act evidence generators. Apache-2.0, `pip install corvinos`.
+- **[GOPAL](https://github.com/Principled-Evolution/gopal)** — Apache-2.0 library of 85 OPA/Rego policies encoding AI-governance regulations as executable allow/deny checks, with EU AI Act coverage under `international/eu_ai_act/v1/`. Plain Rego rather than a framework, so the policies load into an OPA deployment you already run; each framework is pinned under `v1/` with semver guarantees and ships allow/deny tests enforced by `opa check` and Regal in CI.
 
 ## Assessment & Classification
 
