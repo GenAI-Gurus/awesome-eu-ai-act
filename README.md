@@ -144,6 +144,7 @@
 - [ComplyACT AI](https://complyactai.com/blog/software-for-compliance-management) - Auto-classifies AI systems, generates audit-ready Annex IV documentation, and provides continuous monitoring.
 - [AI Disclosure Kit](https://disclosekit.com) - Generates Article 50 disclosure templates for AI transparency notices.
 - [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) - Source-traced examples for AI-chat and synthetic-content notices.
+- [EU AI Act Check](https://i6eal.de/eu-ai-act-check/) - German-language browser tool for preliminary AI Act risk classification and obligations.
 ---
 
 ## Open-Source Projects
