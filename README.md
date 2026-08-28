@@ -117,6 +117,7 @@
 - [EU Artificial Intelligence Act (Future of Life Institute)](https://artificialintelligenceact.eu/) - Most comprehensive independent resource; 150,000+ monthly users. Includes AI Act Explorer and Compliance Checker.
 - [AI Act Explorer (FLI)](https://artificialintelligenceact.eu/ai-act-explorer/) - Interactive browsing by title, chapter, article, and recital.
 - [EU AI Act Compliance Checker (FLI)](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/) - Free tool to determine whether an AI system falls under AI Act obligations.
+- [AI Law Radar](https://ailawradar.com) - Primary-sourced tracker for AI regulation obligations and deadlines, including EU AI Act updates.
 
 ---
 
