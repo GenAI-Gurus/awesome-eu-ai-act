@@ -117,6 +117,7 @@
 - [EU Artificial Intelligence Act (Future of Life Institute)](https://artificialintelligenceact.eu/) - Most comprehensive independent resource; 150,000+ monthly users. Includes AI Act Explorer and Compliance Checker.
 - [AI Act Explorer (FLI)](https://artificialintelligenceact.eu/ai-act-explorer/) - Interactive browsing by title, chapter, article, and recital.
 - [EU AI Act Compliance Checker (FLI)](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/) - Free tool to determine whether an AI system falls under AI Act obligations.
+- [AI Law Radar](https://ailawradar.com) - Primary-sourced tracker for AI regulation obligations and deadlines, including EU AI Act updates.
 
 ---
 
@@ -144,7 +145,7 @@
 - [AI Disclosure Kit](https://disclosekit.com) - Generates Article 50 disclosure templates for AI transparency notices.
 - [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) - Source-traced examples for AI-chat and synthetic-content notices.
 - [The AI Act Clock](https://ascentis-ai.com/ai-act-clock/) - AI Act obligation and deadline questionnaire with an open JSON ruleset.
----
+- [EU AI Act Check](https://i6eal.de/eu-ai-act-check/) - German-language browser tool for preliminary AI Act risk classification and obligations.
 
 ## Open-Source Projects
 
@@ -159,6 +160,7 @@
 - [EU AI Act Compliance Checker](https://github.com/ARQNXS/eu-ai-act-compliance-checker) - Interactive web-based questionnaire for assessing compliance and generating reports.
 - [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
 - [@eucomplyhub/mcp-eu-ai-act](https://github.com/eucomplyhub/mcp-eu-ai-act) - MCP server for EU AI Act risk classification and Annex III analysis.
+- [PALO Framework](https://github.com/sev7enITA/PALOframework) - Local-first EU AI Act risk tiering, FRIA, lifecycle controls, and evidence workflows.
 
 ### Reference Implementations
 
