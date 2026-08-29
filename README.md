@@ -425,6 +425,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [Adversarial Robustness Toolbox (IBM/Linux Foundation)](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Comprehensive framework for evaluating ML security with attacks, defenses, and metrics.
 - [CleverHans](https://github.com/cleverhans-lab/cleverhans) - Library for creating adversarial attacks and benchmarking model robustness.
 - [Counterfit (Microsoft)](https://github.com/Azure/counterfit) - Command-line tool for orchestrating adversarial attacks and testing ML models.
+- [sentinel-scan-cli](https://github.com/Ventrova/sentinel-scan-cli) - Free, open-source CLI that scans LLM apps and MCP servers for prompt injection, tool poisoning, and rug-pulls, mapped to the OWASP LLM Top 10; useful evidence input for Article 15 robustness/security testing.
 
 ### Privacy-Preserving ML
 
