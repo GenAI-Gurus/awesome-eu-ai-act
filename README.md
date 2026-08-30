@@ -296,6 +296,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [EU AI Act Compliance Checklist (DPO Europe)](https://data-privacy-office.eu/usefull-materials/the-eu-ai-act-compliance-checklist/) - Step-by-step checklist organized by risk category.
 - [Essential Checklist for EU AI Act Compliance (OneTrust)](https://www.onetrust.com/resources/essential-checklist-for-responsible-eu-ai-act-compliance-checklist/) - Downloadable with scope insights and compliance foundations.
 - [AI Act Compliance Checklist (Vanta)](https://www.vanta.com/resources/eu-ai-act-checklist) - Links AI Act compliance to ISO 42001 certification.
+- [EU AI Act Risk Classification Decision Record](https://brandquill.app/eu-ai-act-risk-classification-assessment-template) - Free editable XLSX for documenting Article 5, Article 6, and Annex III classification evidence.
 - [EU AI Act 90-Day Implementation Playbook (Secure Privacy)](https://secureprivacy.ai/blog/eu-ai-act-implementation-guide) - Structured sprint covering AI system inventory, risk classification, impact assessment, and governance.
 
 ### FRIA Templates (Fundamental Rights Impact Assessment)
