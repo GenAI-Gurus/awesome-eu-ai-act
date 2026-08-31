@@ -176,6 +176,7 @@
 - [AI Act Implementation Tool (Algorithm Audit)](https://github.com/NGO-Algorithm-Audit/AI-Act-Implementation-Tool) - Risk classification of algorithmic systems using simplified questionnaires.
 - [Algoritmekader (Dutch Government)](https://github.com/MinBZK/Algoritmekader) - Netherlands' open-source Algorithm Framework for lawful and ethical government AI use.
 - [Regula](https://github.com/kuzivaai/getregula) - CLI for EU AI Act risk scanning, conformity evidence packs, and CrowS-Pairs bias evaluation.
+- [EU AI Act Classifier](https://github.com/sebastianfoerste/eu-ai-act-classifier) - Deterministic risk-tier classifier with pinpoint citations, obligation tracking, and review gates.
 
 ### Educational & Informational
 
