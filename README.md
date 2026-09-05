@@ -354,6 +354,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 ### Newsletters
 
 - [The EU AI Act Newsletter (Risto Uuk / FLI)](https://artificialintelligenceact.substack.com/) - Biweekly; tens of thousands of subscribers; the most detailed AI Act implementation updates available.
+- [AI Weekly](https://aiweekly.co/) - AI policy coverage, including EU AI Act developments, for 53,000+ professionals.
 - [Luiza's Newsletter (Luiza Jarovsky, PhD)](https://www.luizasnewsletter.com/) - 93,000+ subscribers covering AI legal and ethical challenges and rights.
 - [The AI Policy Newsletter (Alisar Mustafa)](https://alisarmustafa.substack.com/) - Global AI policy including EU AI Act, US state laws, and international developments.
 - [Thoughts on AI Policy (MIT & Harvard)](https://aipolicy.substack.com/) - Academic newsletter on AI accountability, transparency, and regulation.
