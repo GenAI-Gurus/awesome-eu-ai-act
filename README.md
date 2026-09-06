@@ -346,6 +346,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 
 - [EU AI Act Mandatory Training (QA)](https://www.qa.com/browse/courses/ai/eu-ai-act-mandatory-training/) - 40-minute AI literacy training to comply with Article 4.
 - [EU AI Act Compliance Training (DPO Europe)](https://data-privacy-office.eu/courses/artificial-intelligence-regulation-the-fundamentals-of-risk-management-personal-data/) - Four-week practical training with AIGP-certified trainers.
+- [RansomLeak EU AI Act Training](https://ransomleak.com/catalogue/privacy-compliance/) — Interactive AI-literacy exercises (Art. 4): risk tiers, prohibited practices, deployer duties, oversight.
 
 ---
 
