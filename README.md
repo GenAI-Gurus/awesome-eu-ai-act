@@ -161,6 +161,7 @@
 - [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
 - [@eucomplyhub/mcp-eu-ai-act](https://github.com/eucomplyhub/mcp-eu-ai-act) - MCP server for EU AI Act risk classification and Annex III analysis.
 - [PALO Framework](https://github.com/sev7enITA/PALOframework) - Local-first EU AI Act risk tiering, FRIA, lifecycle controls, and evidence workflows.
+- [GOPAL](https://github.com/Principled-Evolution/gopal) - OPA/Rego policy library with 29 tested checks across 19 EU AI Act articles.
 
 ### Reference Implementations
 
