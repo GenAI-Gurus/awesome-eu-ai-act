@@ -117,6 +117,7 @@
 - [EU Artificial Intelligence Act (Future of Life Institute)](https://artificialintelligenceact.eu/) - Most comprehensive independent resource; 150,000+ monthly users. Includes AI Act Explorer and Compliance Checker.
 - [AI Act Explorer (FLI)](https://artificialintelligenceact.eu/ai-act-explorer/) - Interactive browsing by title, chapter, article, and recital.
 - [EU AI Act Compliance Checker (FLI)](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/) - Free tool to determine whether an AI system falls under AI Act obligations.
+- [AI Law Radar](https://ailawradar.com) - Primary-sourced tracker for AI regulation obligations and deadlines, including EU AI Act updates.
 
 ---
 
@@ -141,9 +142,11 @@
 - [Kertos](https://www.kertos.io/) - EU-focused platform supporting EU AI Act, GDPR, and ISO 27001 with AI-driven automation.
 - [Hyperproof](https://hyperproof.io/) - Compliance operations with automation for evidence collection and control mapping.
 - [ComplyACT AI](https://complyactai.com/blog/software-for-compliance-management) - Auto-classifies AI systems, generates audit-ready Annex IV documentation, and provides continuous monitoring.
+- [SetAIComply](https://www.setaicomply.com/tools/risk-checker) - Free client-side AI Act risk-tier checker in all 24 EU languages; embeddable.
 - [AI Disclosure Kit](https://disclosekit.com) - Generates Article 50 disclosure templates for AI transparency notices.
 - [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) - Source-traced examples for AI-chat and synthetic-content notices.
----
+- [The AI Act Clock](https://ascentis-ai.com/ai-act-clock/) - AI Act obligation and deadline questionnaire with an open JSON ruleset.
+- [EU AI Act Check](https://i6eal.de/eu-ai-act-check/) - German-language browser tool for preliminary AI Act risk classification and obligations.
 
 ## Open-Source Projects
 
@@ -158,6 +161,8 @@
 - [EU AI Act Compliance Checker](https://github.com/ARQNXS/eu-ai-act-compliance-checker) - Interactive web-based questionnaire for assessing compliance and generating reports.
 - [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
 - [@eucomplyhub/mcp-eu-ai-act](https://github.com/eucomplyhub/mcp-eu-ai-act) - MCP server for EU AI Act risk classification and Annex III analysis.
+- [PALO Framework](https://github.com/sev7enITA/PALOframework) - Local-first EU AI Act risk tiering, FRIA, lifecycle controls, and evidence workflows.
+- [GOPAL](https://github.com/Principled-Evolution/gopal) - OPA/Rego policy library with 29 tested checks across 19 EU AI Act articles.
 
 ### Reference Implementations
 
@@ -173,6 +178,7 @@
 - [AI Act Implementation Tool (Algorithm Audit)](https://github.com/NGO-Algorithm-Audit/AI-Act-Implementation-Tool) - Risk classification of algorithmic systems using simplified questionnaires.
 - [Algoritmekader (Dutch Government)](https://github.com/MinBZK/Algoritmekader) - Netherlands' open-source Algorithm Framework for lawful and ethical government AI use.
 - [Regula](https://github.com/kuzivaai/getregula) - CLI for EU AI Act risk scanning, conformity evidence packs, and CrowS-Pairs bias evaluation.
+- [EU AI Act Classifier](https://github.com/sebastianfoerste/eu-ai-act-classifier) - Deterministic risk-tier classifier with pinpoint citations, obligation tracking, and review gates.
 - [AI Act Companion](https://github.com/JKasteele/ai-act-companion) - Local-first EU AI Act risk classifier with cited results and document templates.
 
 ### Educational & Informational
@@ -184,7 +190,7 @@
 
 - [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Seven-package, MIT-licensed runtime governance system for autonomous AI agents covering all 10/10 OWASP Agentic Top 10 (2026) with EU AI Act, NIST AI RMF, HIPAA, and SOC 2 mappings. Enforces policy at <0.1ms p99 latency across LangChain, CrewAI, AutoGen, OpenAI Agents, Google ADK, and 8+ agent frameworks. Python, TypeScript, .NET, Rust, and Go (~900+ stars).
 - [agent-security-harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) - Adversarial testing framework for autonomous agents with EU AI Act crosswalks.
-- [Vaara](https://github.com/vaaraio/vaara) - Python library for runtime oversight of AI agents: intercepts tool calls, scores risk via heuristic and opt-in ML classifier, and writes hash-chained audit logs aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). Apache 2.0.
+- [Vaara](https://github.com/vaaraio/vaara) - Python runtime evidence layer for AI agents: policy-gated tool calls, hash-chained tamper-evident audit trails with external time anchoring, and independently verifiable execution receipts, aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). AGPL-3.0-or-later.
 - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
 - [EATF](https://github.com/tyche-institute/eatf) - Open specification and reference implementation for verifiable AI agent self-attestation.
 
@@ -294,7 +300,9 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [EU AI Act Compliance Checklist (DPO Europe)](https://data-privacy-office.eu/usefull-materials/the-eu-ai-act-compliance-checklist/) - Step-by-step checklist organized by risk category.
 - [Essential Checklist for EU AI Act Compliance (OneTrust)](https://www.onetrust.com/resources/essential-checklist-for-responsible-eu-ai-act-compliance-checklist/) - Downloadable with scope insights and compliance foundations.
 - [AI Act Compliance Checklist (Vanta)](https://www.vanta.com/resources/eu-ai-act-checklist) - Links AI Act compliance to ISO 42001 certification.
+- [EU AI Act Risk Classification Decision Record](https://brandquill.app/eu-ai-act-risk-classification-assessment-template) - Free editable XLSX for documenting Article 5, Article 6, and Annex III classification evidence.
 - [EU AI Act 90-Day Implementation Playbook (Secure Privacy)](https://secureprivacy.ai/blog/eu-ai-act-implementation-guide) - Structured sprint covering AI system inventory, risk classification, impact assessment, and governance.
+- [EU AI Regulation Decoded](https://euaird.vercel.app/) - Open dataset linking EU AI Act obligations to implementation evidence.
 
 ### FRIA Templates (Fundamental Rights Impact Assessment)
 
@@ -352,6 +360,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 ### Newsletters
 
 - [The EU AI Act Newsletter (Risto Uuk / FLI)](https://artificialintelligenceact.substack.com/) - Biweekly; tens of thousands of subscribers; the most detailed AI Act implementation updates available.
+- [AI Weekly](https://aiweekly.co/) - AI policy coverage, including EU AI Act developments, for 53,000+ professionals.
 - [Luiza's Newsletter (Luiza Jarovsky, PhD)](https://www.luizasnewsletter.com/) - 93,000+ subscribers covering AI legal and ethical challenges and rights.
 - [The AI Policy Newsletter (Alisar Mustafa)](https://alisarmustafa.substack.com/) - Global AI policy including EU AI Act, US state laws, and international developments.
 - [Thoughts on AI Policy (MIT & Harvard)](https://aipolicy.substack.com/) - Academic newsletter on AI accountability, transparency, and regulation.
