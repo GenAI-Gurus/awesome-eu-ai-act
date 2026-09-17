@@ -163,6 +163,7 @@
 - [@eucomplyhub/mcp-eu-ai-act](https://github.com/eucomplyhub/mcp-eu-ai-act) - MCP server for EU AI Act risk classification and Annex III analysis.
 - [PALO Framework](https://github.com/sev7enITA/PALOframework) - Local-first EU AI Act risk tiering, FRIA, lifecycle controls, and evidence workflows.
 - [GOPAL](https://github.com/Principled-Evolution/gopal) - OPA/Rego policy library with 29 tested checks across 19 EU AI Act articles.
+- [Dümen](https://github.com/goun7/Dumen) - Open-source model audit engine with red-team tests and tamper-evident evidence.
 
 ### Reference Implementations
 
