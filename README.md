@@ -147,6 +147,7 @@
 - [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) - Source-traced examples for AI-chat and synthetic-content notices.
 - [The AI Act Clock](https://ascentis-ai.com/ai-act-clock/) - AI Act obligation and deadline questionnaire with an open JSON ruleset.
 - [EU AI Act Check](https://i6eal.de/eu-ai-act-check/) - German-language browser tool for preliminary AI Act risk classification and obligations.
+- [Veritome AI Governance](https://veritome.eu) — EU AI Act as a baseline for AI governance platform covering ISO 42001, ISO 27001, GDPR and NIST AI RMF frameworks.
 
 ## Open-Source Projects
 
