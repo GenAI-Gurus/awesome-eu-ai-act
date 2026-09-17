@@ -152,6 +152,7 @@
 
 ### EU AI Act Compliance Platforms
 
+- [EU AI Act Risk Checker](https://github.com/tomdxb0004/eu-ai-act-risk-checker) - Browser-based EU AI Act risk-tier triage with cited articles and decision tests.
 - [ai-act-conformity-pack](https://github.com/plusultra-tools/ai-act-conformity-pack) - Generates an Annex IV technical-documentation skeleton (Articles 11-15) from a YAML model card. Python CLI, MIT.
 - [ai-act-skills](https://github.com/abk1969/ai-act-skills) - Multi-platform agent skills for EU AI Act compliance workflows anchored in ISO/IEC 42001 and ISO/IEC 27090.
 - [VerifyWise](https://github.com/verifywise-ai/verifywise) - Complete AI governance and LLM evals platform with support for EU AI Act, ISO 42001, NIST AI RMF, and 20+ frameworks (~247 stars).
