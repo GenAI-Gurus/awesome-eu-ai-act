@@ -147,6 +147,7 @@
 - [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) - Source-traced examples for AI-chat and synthetic-content notices.
 - [The AI Act Clock](https://ascentis-ai.com/ai-act-clock/) - AI Act obligation and deadline questionnaire with an open JSON ruleset.
 - [EU AI Act Check](https://i6eal.de/eu-ai-act-check/) - German-language browser tool for preliminary AI Act risk classification and obligations.
+- [Allowly Hiring Evidence](https://allowly.ai/docs/solutions/hiring/) - Records hiring policy checks, human review, corrections, and signed decision evidence.
 
 ## Open-Source Projects
 
