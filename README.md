@@ -259,6 +259,7 @@
 - [NIST AI RMF](https://www.nist.gov/artificial-intelligence/ai-standards) - NIST's central page for AI standards including the AI RMF.
 - [NIST AI RMF Crosswalks](https://www.nist.gov/itl/ai-risk-management-framework/crosswalks-nist-artificial-intelligence-risk-management-framework) - Official mappings to ISO/IEC 23894 and the EU AI Act.
 - [ISO 42001 & NIST AI RMF for EU AI Act Compliance (CSA)](https://cloudsecurityalliance.org/blog/2025/01/29/how-can-iso-iec-42001-nist-ai-rmf-help-comply-with-the-eu-ai-act) - Cloud Security Alliance mapping specific AI Act articles to both frameworks.
+- [Four-Way Framework Crosswalk (Annexwright)](https://annexwright.com/iso-42001-crosswalk/Four-Way-Framework-Crosswalk.xlsx) — Free XLSX mapping ISO/IEC 42001 controls to NIST AI RMF, EU AI Act articles and ISO/IEC 27001.
 
 ### CEN/CENELEC Standardization (JTC 21)
 
