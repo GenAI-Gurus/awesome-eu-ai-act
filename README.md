@@ -147,6 +147,7 @@
 - [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) - Source-traced examples for AI-chat and synthetic-content notices.
 - [The AI Act Clock](https://ascentis-ai.com/ai-act-clock/) - AI Act obligation and deadline questionnaire with an open JSON ruleset.
 - [EU AI Act Check](https://i6eal.de/eu-ai-act-check/) - German-language browser tool for preliminary AI Act risk classification and obligations.
+- [ClaimGate](https://github.com/caseone115/claimgate) - Blocks unsupported claims in AI-written marketing copy and enforces Article 50 disclosure. MIT.
 
 ## Open-Source Projects
 
