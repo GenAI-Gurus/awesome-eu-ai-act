@@ -194,6 +194,7 @@
 - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
 - [EATF](https://github.com/tyche-institute/eatf) - Open specification and reference implementation for verifiable AI agent self-attestation.
 - [Bifrost](https://github.com/maximhq/bifrost) - Open-source Go gateway for LLM and MCP traffic with routing, request logging, and usage controls.
+- [Quilzo](https://github.com/quilzo/quilzo) — AI agent control plane mapping deployer duties to evidence from its signed log.
 
 ### AGT Implementation References
 
