@@ -118,6 +118,7 @@
 - [AI Act Explorer (FLI)](https://artificialintelligenceact.eu/ai-act-explorer/) - Interactive browsing by title, chapter, article, and recital.
 - [EU AI Act Compliance Checker (FLI)](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/) - Free tool to determine whether an AI system falls under AI Act obligations.
 - [AI Law Radar](https://ailawradar.com) - Primary-sourced tracker for AI regulation obligations and deadlines, including EU AI Act updates.
+- [EU AI Act Dates After the Digital Omnibus (Meilynx)](https://www.meilynx.com/reference/eu-ai-act-obligation-timeline) - Each obligation, its article, and its application date as amended by Regulation (EU) 2026/1744.
 
 ---
 
@@ -143,6 +144,7 @@
 - [Hyperproof](https://hyperproof.io/) - Compliance operations with automation for evidence collection and control mapping.
 - [ComplyACT AI](https://complyactai.com/blog/software-for-compliance-management) - Auto-classifies AI systems, generates audit-ready Annex IV documentation, and provides continuous monitoring.
 - [SetAIComply](https://www.setaicomply.com/tools/risk-checker) - Free client-side AI Act risk-tier checker in all 24 EU languages; embeddable.
+- [ComplyLayer](https://complylayer.com/) - AI inventory, risk classification, role-scoped documents and Article 4 acknowledgement records.
 - [AI Disclosure Kit](https://disclosekit.com) - Generates Article 50 disclosure templates for AI transparency notices.
 - [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) - Source-traced examples for AI-chat and synthetic-content notices.
 - [The AI Act Clock](https://ascentis-ai.com/ai-act-clock/) - AI Act obligation and deadline questionnaire with an open JSON ruleset.
@@ -180,6 +182,7 @@
 - [Regula](https://github.com/kuzivaai/getregula) - CLI for EU AI Act risk scanning, conformity evidence packs, and CrowS-Pairs bias evaluation.
 - [EU AI Act Classifier](https://github.com/sebastianfoerste/eu-ai-act-classifier) - Deterministic risk-tier classifier with pinpoint citations, obligation tracking, and review gates.
 - [AI Act Companion](https://github.com/JKasteele/ai-act-companion) - Local-first EU AI Act risk classifier with cited results and document templates.
+- [High-Risk Classifier (EU AI Regulation Decoded)](https://euaird.vercel.app/high-risk-classifier.html) - Article 6 / Annex III decision aid mapping an AI system to its risk tier and expected evidence.
 - [EU AI Act Risk Checker (Crux Digits)](https://github.com/tomdxb0004/eu-ai-act-risk-checker) - Browser-based risk-tier triage with per-article citations, updated for the 2026 Digital Omnibus.
 
 ### Educational & Informational
@@ -195,6 +198,7 @@
 - [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
 - [EATF](https://github.com/tyche-institute/eatf) - Open specification and reference implementation for verifiable AI agent self-attestation.
 - [Bifrost](https://github.com/maximhq/bifrost) - Open-source Go gateway for LLM and MCP traffic with routing, request logging, and usage controls.
+- [Mandare](https://github.com/mandarelabs/mandare) - New open-source gateway: spend limits and a tamper-evident ledger for AI agent LLM calls.
 
 ### AGT Implementation References
 
