@@ -118,6 +118,7 @@
 - [AI Act Explorer (FLI)](https://artificialintelligenceact.eu/ai-act-explorer/) - Interactive browsing by title, chapter, article, and recital.
 - [EU AI Act Compliance Checker (FLI)](https://artificialintelligenceact.eu/assessment/eu-ai-act-compliance-checker/) - Free tool to determine whether an AI system falls under AI Act obligations.
 - [AI Law Radar](https://ailawradar.com) - Primary-sourced tracker for AI regulation obligations and deadlines, including EU AI Act updates.
+- [EU AI Act Dates After the Digital Omnibus (Meilynx)](https://www.meilynx.com/reference/eu-ai-act-obligation-timeline) - Each obligation, its article, and its application date as amended by Regulation (EU) 2026/1744.
 
 ---
 
