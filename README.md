@@ -349,6 +349,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [40+ EU AI Act Courses (Class Central)](https://www.classcentral.com/subject/eu-ai-act) - Aggregator listing courses across platforms covering compliance, risk assessment, and implementation.
 - [Oxford AI Ethics, Regulation and Compliance Programme](https://www.sbs.ox.ac.uk/programmes/online-learning/oxford-ai-ethics-regulation-and-compliance-programme) - Comprehensive programme with Oxford certificate.
 - [AI Literacy Programs in Europe (FLI)](https://artificialintelligenceact.eu/ai-literacy-programs/) - Curated directory of training programmes supporting Article 4 AI literacy obligations.
+- [EU AI Act AI Literacy Training Guide (ai-courses.ie)](https://ai-courses.ie/guides/eu-ai-act-ai-literacy-training/) - Ireland-focused guide to Article 4 from EUR-Lex and Commission sources, with courses compared.
 
 ### Professional Certifications
 
