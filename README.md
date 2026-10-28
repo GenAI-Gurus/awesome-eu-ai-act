@@ -202,6 +202,7 @@
 - [EATF](https://github.com/tyche-institute/eatf) - Open specification and reference implementation for verifiable AI agent self-attestation.
 - [Bifrost](https://github.com/maximhq/bifrost) - Open-source Go gateway for LLM and MCP traffic with routing, request logging, and usage controls.
 - [Mandare](https://github.com/mandarelabs/mandare) - New open-source gateway: spend limits and a tamper-evident ledger for AI agent LLM calls.
+- [Asqav](https://github.com/jagmarques/asqav-sdk) - SDK that signs AI agent actions as hash-chained receipts for Article 12 logs. Source-available.
 
 ### AGT Implementation References
 
