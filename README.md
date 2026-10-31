@@ -135,6 +135,7 @@
 - [Modulos](https://www.modulos.ai/) - Swiss-based AI governance platform connecting frameworks, requirements, controls, and evidence into a governance graph.
 - [Dataiku EU AI Act Readiness](https://www.dataiku.com/solutions/catalog/eu-ai-act-readiness/) - Governance workflow blueprints and compliance management.
 - [Fiddler AI](https://www.fiddler.ai/) - Full-stack AI observability with model monitoring, SHAP-based explainability, and fairness checks.
+- [AIComplianceHub](https://www.aicompliancehub.nl/) - Dutch-language EU AI Act platform: AI register, risk classification, AI literacy e-learning.
 
 ### EU AI Act-Specific Tools
 
