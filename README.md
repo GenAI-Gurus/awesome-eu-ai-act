@@ -312,6 +312,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [EU AI Act Risk Classification Decision Record](https://brandquill.app/eu-ai-act-risk-classification-assessment-template) - Free editable XLSX for documenting Article 5, Article 6, and Annex III classification evidence.
 - [EU AI Act 90-Day Implementation Playbook (Secure Privacy)](https://secureprivacy.ai/blog/eu-ai-act-implementation-guide) - Structured sprint covering AI system inventory, risk classification, impact assessment, and governance.
 - [EU AI Regulation Decoded](https://euaird.vercel.app/) - Open dataset linking EU AI Act obligations to implementation evidence.
+- [LLM Gateway Security Questionnaire](https://github.com/henrikdukefoss/llm-gateway-security-questionnaire) - Vendor-neutral questionnaire for LLM gateways, incl. AI Act deployer log questions.
 
 ### FRIA Templates (Fundamental Rights Impact Assessment)
 
