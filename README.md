@@ -314,6 +314,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [EU AI Act Risk Classification Decision Record](https://brandquill.app/eu-ai-act-risk-classification-assessment-template) - Free editable XLSX for documenting Article 5, Article 6, and Annex III classification evidence.
 - [EU AI Act 90-Day Implementation Playbook (Secure Privacy)](https://secureprivacy.ai/blog/eu-ai-act-implementation-guide) - Structured sprint covering AI system inventory, risk classification, impact assessment, and governance.
 - [EU AI Regulation Decoded](https://euaird.vercel.app/) - Open dataset linking EU AI Act obligations to implementation evidence.
+- [DACH GDPR + EU AI Act Art.50 Transparency Pack](https://payhip.com/b/RzuVi) - EN/DE Article 50 checklist and notice templates for n8n teams; not legal advice (paid).
 
 ### FRIA Templates (Fundamental Rights Impact Assessment)
 
