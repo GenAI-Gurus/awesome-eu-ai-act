@@ -153,6 +153,7 @@
 - [The AI Act Clock](https://ascentis-ai.com/ai-act-clock/) - AI Act obligation and deadline questionnaire with an open JSON ruleset.
 - [EU AI Act Check](https://i6eal.de/eu-ai-act-check/) - German-language browser tool for preliminary AI Act risk classification and obligations.
 - [Scanara](https://scanara.io/en/) - Scans code and docs, classifies AI system risk, and generates EU AI Act compliance dossiers.
+- [StandardOS AI Act High-Risk Checker](https://getstandardos.com/ai-act/high-risk) - Free Article 6 and Annex III questionnaire, no account, cites the article behind each answer.
 
 ---
 
