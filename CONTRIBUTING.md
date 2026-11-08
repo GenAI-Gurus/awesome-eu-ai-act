@@ -5,16 +5,16 @@ Thank you for helping make this the best EU AI Act resource list on the internet
 ## How to add a resource
 
 1. **Fork** this repository
-2. **Edit** `README.md` — add your resource to the most relevant section
+2. **Edit** `README.md` and add your resource to the most relevant section
 3. **Open a Pull Request** with a clear title, e.g. `Add: [Resource Name]`
 
 ### Entry format
 
 ```markdown
-- [Resource Name](https://url.example.com) — One-sentence description of what it is and why it's useful.
+- [Resource Name](https://url.example.com) - One-sentence description of what it is and why it's useful.
 ```
 
-Keep descriptions concise (under 100 characters) and factual — no marketing language.
+Use a space, a hyphen, and a space between the link and description. Keep descriptions factual and under 100 characters.
 
 ## What belongs here
 
