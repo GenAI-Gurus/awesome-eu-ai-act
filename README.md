@@ -75,6 +75,8 @@
 ### Regulation Text
 
 - [EU AI Act Full Text (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng) - Regulation (EU) 2024/1689 as published in the Official Journal on 12 July 2024.
+- [EU AI Act Consolidated Text (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2024/1689) - Consolidated text incorporating the Digital Omnibus on AI amendments.
+- [Digital Omnibus on AI (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2026/1744/oj/eng) - Regulation (EU) 2026/1744 amending the AI Act, in force since 27 July 2026.
 - [AI Act PDF Version (EUR-Lex)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202401689) - Official PDF version of the AI Act.
 - [EUR-Lex Plain-Language Summary](https://eur-lex.europa.eu/EN/legal-content/summary/rules-for-trustworthy-artificial-intelligence-in-the-eu.html) - Accessible summary of key provisions and the risk-based approach.
 - [Original 2021 Proposal (COM(2021) 206)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206) - The European Commission's original legislative proposal for historical context.
@@ -83,12 +85,13 @@
 
 - [AI Act - Shaping Europe's Digital Future](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) - Commission's main AI Act landing page with implementation timeline and guidelines.
 - [European Approach to Artificial Intelligence](https://digital-strategy.ec.europa.eu/en/policies/european-approach-artificial-intelligence) - Overarching EU AI strategy and AI Continent Action Plan.
-- [Digital Omnibus on AI Regulation Proposal](https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal) - Proposal to simplify AI Act implementation and adjust high-risk timelines.
+- [AI Omnibus Implementation Update](https://digital-strategy.ec.europa.eu/en/news/ai-omnibus-enters-force) - Commission summary of the adopted changes and revised application dates.
 - [AI Act Standardisation](https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation) - Official page on CEN/CENELEC harmonized standards in ten key areas.
 - [Supporting Implementation with Clear Guidelines](https://digital-strategy.ec.europa.eu/en/news/supporting-implementation-ai-act-clear-guidelines) - Published and upcoming guidelines on prohibited practices, high-risk classification, and transparency.
 - [Guidelines on Prohibited AI Practices](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act) - Commission's interpretation of Article 5 prohibitions with practical examples (4 February 2025).
 - [Guidelines on the Definition of an AI System](https://digital-strategy.ec.europa.eu/en/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application) - Commission breakdown of the seven cumulative elements of the Article 3(1) AI system definition.
 - [Guidelines on the Scope of Obligations for Providers of GPAI Models](https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers) - Commission interpretation of GPAI definition, the 10²³ FLOP threshold, and downstream-provider duties.
+- [Article 50 Transparency Guidelines](https://digital-strategy.ec.europa.eu/en/library/guidelines-transparency-obligations-providers-and-deployers-ai-systems) - Commission guidance on Article 50 duties and exceptions for providers and deployers.
 - [Code of Practice on Marking and Labelling AI-Generated Content](https://digital-strategy.ec.europa.eu/en/news/commission-publishes-code-practice-marking-and-labelling-ai-generated-content) - Final voluntary Article 50 code for marking, detection, and labelling workflows.
 - [AI Literacy Q&A](https://digital-strategy.ec.europa.eu/en/faqs/ai-literacy-questions-answers) - Official FAQ on AI literacy obligations under Article 4.
 - [AI Pact](https://digital-strategy.ec.europa.eu/en/policies/ai-pact) - Voluntary initiative enabling early compliance before legal deadlines.
@@ -107,7 +110,7 @@
 ### European Parliament & Governance
 
 - [EU AI Act Explainer (European Parliament)](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence) - Parliament's guide covering risk levels, prohibitions, and timeline.
-- [AI Act Simplification Vote (European Parliament)](https://www.europarl.europa.eu/news/en/press-room/20260611IPR45207/) - Parliament vote on AI Omnibus delays, nudifier-app ban, and next Council step.
+- [AI Act Simplification Vote (European Parliament)](https://www.europarl.europa.eu/news/en/press-room/20260611IPR45207/) - Parliament's June 2026 vote on the AI Omnibus.
 - [Digital Omnibus on AI Procedure File](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0359%28COD%29) - Legislative tracker for the Digital Omnibus on AI file.
 - [European AI Board](https://digital-strategy.ec.europa.eu/en/policies/ai-board) - Member State representatives advising on consistent implementation.
 - [Ethics Guidelines for Trustworthy AI (HLEG)](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai) - Landmark 2019 seven-requirement framework that shaped the AI Act.
@@ -163,7 +166,6 @@
 - [EuConform](https://github.com/Hiepler/EuConform) - Risk classification, bias detection via CrowS-Pairs, and Annex IV-compliant PDF report generation, 100% offline (~107 stars).
 - [EU AI Act MCP Server](https://github.com/SonnyLabs/EU_AI_ACT_MCP) - MCP server with compliance tools including risk classification, prohibited practice checks, and transparency disclosures.
 - [MCP EU AI Act Scanner](https://github.com/ark-forge/mcp-eu-ai-act) - Scans codebases for EU AI Act and GDPR compliance gaps and generates auditor-ready Annex IV evidence packages.
-- [EU AI Act Compliance Checker](https://github.com/ARQNXS/eu-ai-act-compliance-checker) - Interactive web-based questionnaire for assessing compliance and generating reports.
 - [Compl-AI](https://github.com/compl-ai/compl-ai) - Compliance-centered LLM evaluation framework with technical interpretation of the AI Act and benchmarking suite covering six core principles.
 - [@eucomplyhub/mcp-eu-ai-act](https://github.com/eucomplyhub/mcp-eu-ai-act) - MCP server for EU AI Act risk classification and Annex III analysis.
 - [PALO Framework](https://github.com/sev7enITA/PALOframework) - Local-first EU AI Act risk tiering, FRIA, lifecycle controls, and evidence workflows.
@@ -198,8 +200,7 @@
 - [Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) - Seven-package, MIT-licensed runtime governance system for autonomous AI agents covering all 10/10 OWASP Agentic Top 10 (2026) with EU AI Act, NIST AI RMF, HIPAA, and SOC 2 mappings. Enforces policy at <0.1ms p99 latency across LangChain, CrewAI, AutoGen, OpenAI Agents, Google ADK, and 8+ agent frameworks. Python, TypeScript, .NET, Rust, and Go (~900+ stars).
 - [agent-security-harness](https://github.com/msaleme/red-team-blue-team-agent-fabric) - Adversarial testing framework for autonomous agents with EU AI Act crosswalks.
 - [Vaara](https://github.com/vaaraio/vaara) - Python runtime evidence layer for AI agents: policy-gated tool calls, hash-chained tamper-evident audit trails with external time anchoring, and independently verifiable execution receipts, aligned with EU AI Act Article 14 (human oversight) and Article 12 (record-keeping). AGPL-3.0-or-later.
-- [Nobulex](https://github.com/arian-gogani/nobulex) - Cryptographic audit trails for AI agent record-keeping.
-- [EATF](https://github.com/tyche-institute/eatf) - Open specification and reference implementation for verifiable AI agent self-attestation.
+- [EATF](https://tyche.institute/eatf/) - Appraisal profiles, verifiers, and test vectors for AI agent action evidence.
 - [Bifrost](https://github.com/maximhq/bifrost) - Open-source Go gateway for LLM and MCP traffic with routing, request logging, and usage controls.
 - [Mandare](https://github.com/mandarelabs/mandare) - New open-source gateway: spend limits and a tamper-evident ledger for AI agent LLM calls.
 
@@ -270,6 +271,7 @@
 
 ### CEN/CENELEC Standardization (JTC 21)
 
+- [EN 18286:2026 Official Journal Reference](https://eur-lex.europa.eu/eli/dec_impl/2026/2274/oj/eng) - Quality management standard with a presumption of conformity for covered Article 17 requirements.
 - [CEN-CENELEC JTC 21](https://jtc21.eu/) - Official body developing European harmonized standards for the AI Act.
 - [Standard Setting Overview (FLI)](https://artificialintelligenceact.eu/standard-setting-overview/) - Comprehensive overview of the standard-setting process, JTC 21 structure, and timeline.
 - [CEN-CENELEC AI Standards](https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/) - Trustworthiness, risk management, and conformity assessment standards.
@@ -427,7 +429,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 
 - [Model Card Toolkit (Google/TensorFlow)](https://github.com/tensorflow/model-card-toolkit) - Automates generation of Model Cards for transparency reporting (~400 stars).
 - [Hugging Face Model Cards](https://huggingface.co/docs/hub/en/model-cards) - Standardized model card format for the Hugging Face Hub.
-- [AI FactSheets 360 (IBM)](https://aifs360.res.ibm.com/) - Comprehensive factsheets documenting AI model development, testing, and deployment.
+- [AI FactSheets (IBM Research)](https://research.ibm.com/publications/a-human-centered-methodology-for-creating-ai-factsheets) - Methodology for documenting AI models and services with FactSheets.
 - [Deon (DrivenData)](https://deon.drivendata.org/) - Ethics checklist tool adding ethical checkpoints to ML workflows.
 
 ### ML Monitoring & Observability
@@ -455,7 +457,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 
 ### EU AI Act Provisions
 
-- [Article 57: AI Regulatory Sandboxes (FLI)](https://artificialintelligenceact.eu/article/57/) - Full text requiring Member States to establish at least one sandbox by 2 August 2026.
+- [Article 57: AI Regulatory Sandboxes (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2024/1689#art_57) - At least one national AI regulatory sandbox per Member State, operational by 2 August 2027.
 - [Draft Implementing Act for AI Sandboxes (EC)](https://digital-strategy.ec.europa.eu/en/consultations/commission-seeks-feedback-draft-implementing-act-establish-ai-regulatory-sandboxes-under-ai-act) - Commission consultation on sandbox establishment and operation.
 
 ### Member State Programs
@@ -466,7 +468,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 ### Analysis
 
 - [Regulatory Sandboxes as AI Governance Tools (FPF)](https://fpf.org/blog/balancing-innovation-and-oversight-regulatory-sandboxes-as-a-tool-for-ai-governance/) - Analysis of approximately 30 jurisdictions with AI sandboxes.
-- [Operationalising AI Sandboxes (Cambridge)](https://www.cambridge.org/core/journals/cambridge-forum-on-ai-law-and-governance/article/operationalising-ai-regulatory-sandboxes-under-the-eu-ai-act) - Academic paper on the challenges of capacity, coordination, and attractiveness.
+- [Operationalising AI Sandboxes (Cambridge)](https://doi.org/10.1017/cfl.2025.10023) - Research on capacity, coordination, and provider participation in AI Act sandboxes.
 
 ---
 
