@@ -152,6 +152,7 @@
 - [AI Interaction Transparency Snippets](https://github.com/NlDev-hub/ai-interaction-transparency-snippets) - Source-traced examples for AI-chat and synthetic-content notices.
 - [The AI Act Clock](https://ascentis-ai.com/ai-act-clock/) - AI Act obligation and deadline questionnaire with an open JSON ruleset.
 - [EU AI Act Check](https://i6eal.de/eu-ai-act-check/) - German-language browser tool for preliminary AI Act risk classification and obligations.
+- [CIAD AI Act Checkup](https://ciad.cz/en/checkup/) - Eight-question browser check of AI Act Articles 4 and 50 and Annex III; Czech and English.
 - [Scanara](https://scanara.io/en/) - Scans code and docs, classifies AI system risk, and generates EU AI Act compliance dossiers.
 - [Retrace](https://github.com/juw12/retrace) - Open-source scanner that reports AI chatbots and AI-notice wording on a website (Art. 50 evidence).
 
