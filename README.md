@@ -206,6 +206,7 @@
 - [Mandare](https://github.com/mandarelabs/mandare) - New open-source gateway: spend limits and a tamper-evident ledger for AI agent LLM calls.
 - [Tracekit](https://github.com/Cygnux-Labs/Tracekit) - Gates agent tool calls (allow, deny, ask a person) and signs each into an offline-verifiable log.
 - [solvi](https://github.com/solvi-ai/solvi) - Python decision runtime: rule checks, human escalation, hash-chained replayable audit trail.
+- [SayFirst](https://github.com/fredaime/sayfirst-control-plane/blob/main/docs/EU-AI-ACT.md) - Open-source agent control plane: logs each decision, holds actions for a person's approval.
 
 ### AGT Implementation References
 
