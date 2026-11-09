@@ -190,6 +190,7 @@
 - [AI Act Companion](https://github.com/JKasteele/ai-act-companion) - Local-first EU AI Act risk classifier with cited results and document templates.
 - [High-Risk Classifier (EU AI Regulation Decoded)](https://euaird.vercel.app/high-risk-classifier.html) - Article 6 / Annex III decision aid mapping an AI system to its risk tier and expected evidence.
 - [EU AI Act Risk Checker (Crux Digits)](https://github.com/tomdxb0004/eu-ai-act-risk-checker) - Browser-based risk-tier triage with per-article citations, updated for the 2026 Digital Omnibus.
+- [Radar AI Act](https://github.com/caseroclaw/radar-ai-act) - Spanish-language EU AI Act risk-tier classifier for SMEs: 30 use cases, obligations split by provider and deployer, enforcement dates and penalty caps.
 
 ### Educational & Informational
 
