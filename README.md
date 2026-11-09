@@ -337,7 +337,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [EU AI Act Implementation Timeline (FPF)](https://fpf.org/wp-content/uploads/2025/04/FPF_EU_AI_Act_Timeline_R4_-_2025_Update.pdf) - Detailed visual timeline infographic (2025 update).
 - [EU AI Act Governance Architecture (FPF)](https://fpf.org/wp-content/uploads/2025/04/FPF_AI_Governance_Framework_IG_11x17_FINAL_-_2025_Update.pdf) - Visual framework mapping the AI Act's institutional architecture.
 - [EU AI Model Contractual Clauses (European Commission)](https://public-buyers-community.ec.europa.eu/communities/procurement-ai/resources/updated-eu-ai-model-contractual-clauses) - Model contractual clauses for AI procurement aligned with the AI Act.
-- [EU AI Act Timeline (Agent Index)](https://theagentindex.io/guides/eu-ai-act-timeline/) - Sourced list of AI Act dates after the Digital Omnibus amendments.
+- [EU AI Act Timeline (Agent Index)](https://theagentindex.io/guides/eu-ai-act-timeline/) - Chronological milestone table with Commission Service Desk and OJ cites, plus Omnibus change notes.
 
 ---
 
