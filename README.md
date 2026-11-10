@@ -206,6 +206,7 @@
 - [Mandare](https://github.com/mandarelabs/mandare) - New open-source gateway: spend limits and a tamper-evident ledger for AI agent LLM calls.
 - [Tracekit](https://github.com/Cygnux-Labs/Tracekit) - Gates agent tool calls (allow, deny, ask a person) and signs each into an offline-verifiable log.
 - [solvi](https://github.com/solvi-ai/solvi) - Python decision runtime: rule checks, human escalation, hash-chained replayable audit trail.
+- [ZizkaDB](https://github.com/ZIZKA-AI-SL/ZizkaDB) - Tamper-evident, hash-chained audit trail of AI agent steps for Article 12 logging.
 
 ### AGT Implementation References
 
