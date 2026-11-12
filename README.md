@@ -195,6 +195,7 @@
 
 - [EU AI Act Interactive Guide](https://github.com/niranjanxprt/eu-ai-act) - Comprehensive interactive guide for startups and SMEs with compliance checker and risk assessment.
 - [Hugging Face EU AI Act Guide for OSS Developers](https://github.com/huggingface/blog/blob/main/eu-ai-act-for-oss-developers.md) - Official guide covering obligations for GPAI models, copyright compliance, and documentation requirements.
+- [AI Literacy Check (Art. 4)](https://lerider.com/kennis/ai-literacy-check/?ref=gh-genai-euaiact) - Free 9-question Article 4 self-check; by Lerider, a template vendor
 
 ### AI Agent Governance
 
