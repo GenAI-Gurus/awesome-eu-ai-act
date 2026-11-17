@@ -6,7 +6,7 @@
 
 - [ ] I have read [CONTRIBUTING.md](../CONTRIBUTING.md)
 - [ ] The link is publicly accessible and currently working
-- [ ] The entry follows the format: `- [Name](URL) — One-sentence description.`
+- [ ] The entry follows the format `- [Name](URL) - One-sentence description.`
 - [ ] The description is factual and under 100 characters (no marketing language)
 - [ ] The resource is placed in the correct section
 - [ ] The resource is not already listed in the README
