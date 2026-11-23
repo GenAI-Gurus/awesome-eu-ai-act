@@ -318,6 +318,7 @@ Practical templates, checklists, and assessment materials for AI Act readiness, 
 - [EU AI Act 90-Day Implementation Playbook (Secure Privacy)](https://secureprivacy.ai/blog/eu-ai-act-implementation-guide) - Structured sprint covering AI system inventory, risk classification, impact assessment, and governance.
 - [EU AI Regulation Decoded](https://euaird.vercel.app/) - Open dataset linking EU AI Act obligations to implementation evidence.
 - [AI Acceptable Use Policy Template (NexoDocs)](https://nexodocs.com/en/guides/ai-acceptable-use-policy-template) - Free editable Word policy for staff use of generative AI, supporting Article 4 AI literacy.
+- [AI Governance Templates (NosisTech)](https://github.com/nosistech/governance-templates) - AI acceptable-use policy, AI tool register, AI vendor questionnaire and AI incident response playbook, in Word and Excel (CC BY 4.0).
 
 ### FRIA Templates (Fundamental Rights Impact Assessment)
 
