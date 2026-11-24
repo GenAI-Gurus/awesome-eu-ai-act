@@ -195,6 +195,7 @@
 
 - [EU AI Act Interactive Guide](https://github.com/niranjanxprt/eu-ai-act) - Comprehensive interactive guide for startups and SMEs with compliance checker and risk assessment.
 - [Hugging Face EU AI Act Guide for OSS Developers](https://github.com/huggingface/blog/blob/main/eu-ai-act-for-oss-developers.md) - Official guide covering obligations for GPAI models, copyright compliance, and documentation requirements.
+- [EU AI Act Dataset](https://github.com/SimpleAct-Compliance/eu-ai-act-dataset) - Obligations, deadlines, Annex III, Art. 5 and fines as JSON, YAML and iCalendar (EN/DE).
 
 ### AI Agent Governance
 
