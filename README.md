@@ -179,6 +179,7 @@
 - [AI Act Engineering](https://github.com/visenger/aiact-engineering) - Curated reference list for engineering practices ensuring AI systems comply with AI Act regulations.
 - [AI Act Technical Documentation Assessment Tools](https://github.com/Francesco-Sovrano/AI-Act-Compliance-Technical-Documentation-Assessment-Tools) - Research replication package for using AI to draft Annex IV-compliant technical documentation.
 - [AIR Blackbox](https://github.com/airblackbox) - Open-source trust infrastructure with 39 EU AI Act compliance checks, decision traceability, and audit chains across 11 PyPI packages.
+- [EPI (epi-recorder)](https://github.com/mohdibrahimaiml/epi-recorder) - Records each AI decision as a portable, sealed `.epi` file (hash-chained steps, Ed25519 signature, RFC 3161 timestamps) that a third party verifies offline with no account. Offered as Annex IV and Article 12 evidence input, not as a compliance certificate. Apache-2.0.
 
 ### Risk Assessment & Classification
 
